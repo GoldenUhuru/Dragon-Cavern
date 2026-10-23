@@ -17,10 +17,10 @@
 |---|---:|---|
 | Chasah | 51 | Leader of any clan; means leader or guide; gender-neutral, including female leaders |
 | Mon-Tah | 52 | Your teacher/co-magician, unless permission to use their personal name is granted |
-| Moon Gulash | 52 | Star-Moon clan members, except their young |
+| Moon Gutash | 52 | Star-Moon clan members, except their young |
 | Moosha | 52 | Gate guardians who are members of the Savage Heart clan; means warrior |
 | Mot-Tah | 52 | Other teachers and co-magicians |
-| Star-Gulash | 52 | Star-Born clan members, except their young; you are very unlikely to see them |
+| Star-Gutash | 52 | Star-Born clan members, except their young; you are very unlikely to see them |
 | Tad Ekam | 52 | Any Chaos dragon |
 | Tah-Soor | 52 | Older dragons you meet |
 | Tah-Soor-Izoris | 52 | Elders and very important dragons you meet |
@@ -34,3 +34,6 @@ The next section on p.52, *Ritual for Attracting a Co-Magician Dragon*, instruct
 **Correction connection:** DC-NEW-017 Sairys's gender was initially guessed by the assistant and corrected after user review; p.51 explicitly reinforces that gender cannot be identified from visual traits.
 
 **Awaiting:** explicit user approval of this transcription and Atlas entry.
+
+## Correction history — 2026-10-23
+- User corrected two original-transcription errors: **Moon Gutash** and **Star-Gutash**, not Gulash. Both verified against the enlarged original p.52 photograph. Previous assistant transcription was inaccurate; correction does not alter historical first-attempt scores.
