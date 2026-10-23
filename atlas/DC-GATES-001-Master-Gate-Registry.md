@@ -27,3 +27,7 @@ Audit remaining Gates named on pp. 42–48 and complete individual provenance, s
 ## Quality review: QR-2026-10-23-001 — To the Void
 
 William marked **To the Void (pp. 39, 42): UNSURE** on 2026-10-23. Earlier visual study record describes a p. 39 line from Upperworld to the label **To the Void**. The p. 42 textual archive describes a separate **Void Gate** with a black-circle marking and Chaos Dragon restriction. The current sources **do not establish that the p. 39 line and the p. 42 gate are the same passage**. Keep these as distinct records pending direct side-by-side verification of original pp. 39 and 42. Do not erase earlier approval of the p. 42 gate's own attributes. **Review status: unresolved; not user-approved as an identity claim.**
+
+## Translation approval — Void Gate (2026-10-23)
+
+William approved the Swedish rendering **“en olycksbådande svart cirkel”** for the archived English phrase **“ominous black circle”** (p. 42). Preserve **ominous** alongside the Swedish term. This describes an ominous impression, **not** proof that the Gate is evil, causes misfortune, or has a fully circular physical shape. **Translation: USER-APPROVED.** The separate identity question between p. 39 **To the Void** and p. 42 **Void Gate** remains **UNRESOLVED**.
