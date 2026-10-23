@@ -1,7 +1,7 @@
 # DC-P057 — Gark-Yin
 
 **Source:** D. J. Conway, *Mystical Dragon Magick*, printed p. 57.  
-**Status:** VERIFIED from supplied source photograph; **awaiting user approval**.  
+**Status:** VERIFIED from supplied source photograph; **USER-APPROVED by William on 2026-10-23**.  
 **Category:** Named dragon / guardian of one of the Four Hidden Gates.
 
 ## Identification and relationship
@@ -28,4 +28,4 @@
 - Do not add horns, wings, human traits or unmentioned anatomy in a source-faithful illustration.
 
 ## Approval and corrections
-- Initial entry 2026-10-23. Awaiting William's approval.
+- Initial entry 2026-10-23. USER-APPROVED by William on 2026-10-23.
