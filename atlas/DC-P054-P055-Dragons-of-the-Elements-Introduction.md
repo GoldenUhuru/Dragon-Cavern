@@ -1,7 +1,7 @@
 # DC-P054-P055 — Dragons of the Elements: Introduction
 
 **Source:** D. J. Conway, *Mystical Dragon Magick*, pp. 54–55, heading at foot of p. 54.  
-**Status:** Verified against supplied readable page photographs; awaiting William's approval.  
+**Status:** Verified against supplied readable page photographs; USER-APPROVED by William on 2026-10-23.  
 **Scope:** Opening paragraph and transition into p. 55; not a replacement for individual elemental leader entries.
 
 ## Opening (p. 54)
@@ -32,4 +32,4 @@ The author says Asian dragon studies alone mention these four great dragons. The
 - The Four Hidden Dragons of Wisdom have a center-of-Five-Rings guarding relationship; do not invent chamber geometry or a route without other source evidence.
 
 ## Provenance and status
-Directly checked from the supplied images of p. 54 and p. 55 on 2026-10-23. **Awaiting user approval.** Any corrections should be preserved with a correction-history entry.
+Directly checked from the supplied images of p. 54 and p. 55 on 2026-10-23. **USER-APPROVED by William on 2026-10-23.** Any corrections should be preserved with a correction-history entry.
