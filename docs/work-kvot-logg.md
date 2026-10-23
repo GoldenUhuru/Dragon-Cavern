@@ -6,15 +6,15 @@ Mät vad **ett färdigt, källkontrollerat uppdrag** kostar i ChatGPT Work, utan
 ## Mätning 001 – Kaudras grotta (kartbrief)
 | Fält | Före | Efter |
 | --- | --- | --- |
-| Datum och klockslag, lokal tid | 2026-10-23 cirka 17:06 CEST (användarens skärmbild) | Inte uppmätt |
-| Work-kvot: 5-timmarsvy (värde och vad % betyder) | 52 % kvar; återställs om 3 tim 47 min | Ej avläst |
+| Datum och klockslag, lokal tid | 2026-10-23 cirka 17:06 CEST (användarens skärmbild) | 2026-10-23 cirka 17:20 CEST (användarens skärmbild) |
+| Work-kvot: 5-timmarsvy (värde och vad % betyder) | 52 % kvar; återställs om 3 tim 47 min | 40 % kvar; återställs om 3 tim 33 min |
 | Work-kvot: veckovy (värde och vad % betyder) | Ej avläst vid uppdragsstart | Ej avläst |
 | Extra krediter / annan tillgänglig kvot | Ej avläst | Ej avläst |
 | Reset utförd mellan mätningarna | Ej registrerad | Ej registrerad |
 | Andra Work-aktiviteter under intervallet | Okänt | Okänt |
 | Levererad kartbrief verifierad? | Nej | Nej |
 
-**Status:** Före-mätning mottagen och noterad; inväntar uppdragets start och efter-mätning.
+**Status:** Före- och efter-mätning noterade. Minskning: **12 procentenheter** i 5-timmarsvyn; attribuering till enbart uppdraget förutsätter att inga andra aktiviteter förbrukade kvoten. Work rapporterade arbetstid **8 min 21 s**.
 
 ### Genomförande
 1. Öppna ChatGPT Work och ta en före-skärmbild av kvotvyerna **omedelbart före** kartbrief-uppdraget.
@@ -27,4 +27,4 @@ Mät vad **ett färdigt, källkontrollerat uppdrag** kostar i ChatGPT Work, utan
 Vid en tidigare diskussion den 23 oktober 2026 syntes skärmbilder med **95 % i veckovy, 100 % i femtimmarsvy, 0 extra krediter och två sparade resets**. En återställning användes senare. Därför är den historiska observationen **inte** en tillförlitlig före-mätning för Kaudrauppdraget och ska inte användas för att räkna ut kvotkostnaden.
 
 ## Utfall
-Före-mätning: 52 % kvar på 5-timmarsgränsen. Ingen efter-mätning ännu. Inga Work-krediter eller procentenheter tillskrivs uppdraget utan jämförbara data.
+Före: 52 % kvar. Efter: 40 % kvar. Observerad minskning: **12 procentenheter**; detta är inte ett verifierat antal anrop eller krediter. Ingen reset syns ha inträffat (återställningstiden räknade ned), men annan förbrukning under intervallet är inte oberoende utesluten.
