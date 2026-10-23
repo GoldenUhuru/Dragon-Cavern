@@ -8,7 +8,7 @@
 | Travelers' Gate | 42 | Upperworld | Any Otherworld level except Highest and Underworld | Spiral; not specifically identified as wandering | Prior Atlas T+A |
 | Web Gate | 42,44 | Upperworld | Web Weavers' side area; p.44 additional travel context | Cobweb painting | Prior Atlas T+A |
 | Zodiac Gate | 42 | Upperworld | Side area of Time-Flight and Astra-Keeper clans | Twelve stars **and** twelve zodiac signs | Prior Atlas T+A |
-| Void Gate | 42 | Upperworld | Void connection (precise transit destination restrictions matter) | Ominous black circle; Chaos Dragons only | Prior Atlas T+A |
+| Void Gate | 42 | Upperworld | Exact route and its relationship to p. 39 label **To the Void** remain unresolved | Ominous black circle; Chaos Dragons only | Prior Atlas T+A for individual gate; cross-reference UNRESOLVED |
 | Teacher's Gate | 44 | Middleworld | Co-magicians or Ring Initiators | Five distinct wands | Prior approved test G |
 | Past Lives Gate | 44–45 | Middleworld | Temple of Akashic Records | Decorated book | Prior approved test F |
 | Four Hidden Gates of Wisdom | 45,55–57 | Center of Five Rings | Four Mystery School routes | Permission of guardians required; not yet accessible to current students | Prior approved entries; four guardians separately |
@@ -23,3 +23,7 @@ Durka (first; Northern Mystery Schools); Hun-Tun (second; destination not establ
 
 ## Pending
 Audit remaining Gates named on pp. 42–48 and complete individual provenance, safety, permissions, exact gate markings, and directions. Do not treat absence from this initial index as absence from the book.
+
+## Quality review: QR-2026-10-23-001 — To the Void
+
+William marked **To the Void (pp. 39, 42): UNSURE** on 2026-10-23. Earlier visual study record describes a p. 39 line from Upperworld to the label **To the Void**. The p. 42 textual archive describes a separate **Void Gate** with a black-circle marking and Chaos Dragon restriction. The current sources **do not establish that the p. 39 line and the p. 42 gate are the same passage**. Keep these as distinct records pending direct side-by-side verification of original pp. 39 and 42. Do not erase earlier approval of the p. 42 gate's own attributes. **Review status: unresolved; not user-approved as an identity claim.**
