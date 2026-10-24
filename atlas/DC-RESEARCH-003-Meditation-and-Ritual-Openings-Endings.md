@@ -45,3 +45,18 @@
 3. Only then treat *complete meditations with standardized opening and closing* as approved for a game adaptation.
 
 **Approval scope:** Only the p.52–54 reviewed findings are user-approved. Page 7–8 full procedures remain unresolved and NOT approved; metaphysical claims not empirically validated.
+
+
+## Continuation mission, 2026-10-24 — Targeted recovery pp.7–8
+
+**Outcome:** A previously overlooked **historical thematic summary** was recovered, but direct page-image verification remains blocked by unavailable original early video `1000009915.mp4`. The historic study record's **“Meditation form”** section describes quiet sitting upright, optional soft instrumental music, relaxation and light imagery, leaving disturbances behind, a guarded entrance and intent to study, then returning attention to physical body and moving fingers and feet. It also suggests recording guided meditations.
+
+**Evidence classification:** These themes are **S — preserved Oct 10 study summary**, NOT direct visual verification of p.7–8. Their ordering, printed-page distribution and inclusion inside the standard beginning vs surrounding discussion remain unresolved.
+
+**Source audit:** Current project container has only late pp.42–66 video. Historic `page_08.jpg` extraction was examined and is **printed p.49, not p.8**. Earlier personal conversation, attached project files, Library, GitHub text and connected Drive filename searches did not return original page images or the original early video. Do not confuse temporal screenshot numbering with printed page numbering.
+
+**Updated Atlas entry:** [DC-P007–P008 — Standard Meditation Beginning and Ending](DC-P007-P008-Standard-Meditation-Opening-Ending.md), now separating **V: later chapter cross-references**, **S: introductory study summary**, and **U: exact pp.7–8 procedures**. The user-approved status of pp.52–54 and pp.58–66 is unchanged.
+
+**Exact next source needed:** printed pp.7–8 photos or readable reaccess to the earlier 2m10s `1000009915.mp4` video; **not** a repetition of the entire book study. Present exact page review and corrections to William before approval.
+
+**Mission status:** Partially progressed. Thematic knowledge recovered and indexed. Page-exact meditation opening and ending remain **UNRESOLVED** and **NOT USER-APPROVED**.
