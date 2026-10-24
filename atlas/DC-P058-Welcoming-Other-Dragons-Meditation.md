@@ -1,6 +1,6 @@
 # DC-P058 — Welcoming Other Dragons Meditation
 
-**Primary evidence:** D. J. Conway, *Mystical Dragon Magick*, pp.58–60, directly read from supplied video `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4`, approximately 00:26–00:30. **Status: VERIFIED from readable page frames; user approval PENDING.** Source describes a guided meditation, not an independently established physical place.
+**Primary evidence:** D. J. Conway, *Mystical Dragon Magick*, pp.58–60, directly read from supplied video `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4`, approximately 00:26–00:30. **Status: VERIFIED from readable page frames; USER-APPROVED 2026-10-24.** Source describes a guided meditation, not an independently established physical place.
 
 ## Page 58
 - Author introduces Storm as a separate element before the meditation; **Storm discussion is not part of the meditation**.
@@ -30,7 +30,7 @@ Courtyard is explicitly *without walls*; do not draw enclosing castle walls arou
 ## Cross-references
 Standard meditation opening p.7, closing p.8; acceptance meditation pp.30–33 (only as explicitly recalled by narrator).
 
-## Page-by-page review checkpoint — 2026-10-24 (approval still pending)
+## Page-by-page review checkpoint — 2026-10-24 (approved 2026-10-24)
 
 Direct page images inspected from previously uploaded p.42–66 video: `dc_research_002_frames/t26.jpg` (printed p.58), `t28.jpg` (p.59), `t30.jpg` (p.60). Frame identifiers are local research aids; original uploaded video is authoritative. The p.58 pre-heading Storm discussion does **not** belong to this meditation; p.60 **Basic Personal Protection** begins **after** this meditation ends.
 
@@ -42,4 +42,4 @@ Precision checks:
 - p.60: dragons arrange in a **long line** with their own apprentices **in front**; bright doorways appear as dragons hum again. Exact portal shapes, colours and destinations remain unspecified.
 - p.7 opening and p.8 ending are referenced but NOT reproduced or verified in this review. The Otherworld level of the courtyard is not named in pp.58–60.
 
-**Await William's explicit approval or corrections for DC-P058.** Neither this checkpoint nor the direct read counts as user approval.
+**Approval:** William explicitly approved the page-by-page review on 2026-10-24 ("Approved. Well done"). Approval applies to the documented source-derived details of pages 58–60 and their stated uncertainty boundaries; it does not authorize invented architecture, dragons, Otherworld level, portal destination, or other details.
