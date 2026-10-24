@@ -25,3 +25,12 @@ Dragon Cavern växer ur den källkritiska studien av D. J. Conways *Mystical Dra
 
 Källgranskning och samband är dokumenterade, men **ingen spelbar prototyp finns ännu i detta repository**. JSON-grafen är ett implementeringsunderlag, **inte** en körbar spelvärld. Källfakta i de länkade atlasposterna är godkända; den nya grafens upplägg och framtida speldesign ska granskas separat innan de blir spelkanon. Aetherion är vår egen bokdrake och ska inte förväxlas med Conways namngivna drakar.
 
+
+
+## Kaudra's Cave — första källkritiska kartmilstolpen
+
+- [Uppdrag 001: kartbrief för Kaudras grotta](docs/001-kaudras-grotta-kartbrief-2026-10-24.md)
+- [Datagraf: 13 Atlas-entiteter / 11 bekräftade relationer / 6 olösta](game/data/kaudra-cave-evidence-graph.v1.json)
+- [Interaktiv, fristående källutforskare (HTML)](game/kaudra-source-explorer.html)
+
+**Status:** Atlasfakta har tidigare godkänts för sina enskilda poster. Den nu sammanställda kartbriefen och visualiseringsstrukturen inväntar Williams granskning. HTML-filen är en interaktiv **källkarta**, inte en fysiskt källbelagd grottplan och inte ett färdigbyggt spel. Trädgårdens förbindelse med grottan och frågan om de två omnämnda kristallgrottorna är samma plats förblir uttryckligen olösta.
