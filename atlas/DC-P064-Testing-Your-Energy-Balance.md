@@ -4,7 +4,7 @@
 **Original video:** `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4`.
 **Frame evidence:** `dc_research_002_frames/t36.jpg` = printed p.64; `dc_research_002_frames/t37.jpg` = printed p.65. These are legible photos extracted from the supplied video and directly reviewed again 2026-10-24.
 
-**Evidence status:** VERIFIED against original pages. **User-approval status: PENDING explicit William approval.** This is a meditation/mental exercise within Conway's dragon-magick framework, **not a scientific test of a measurable external energy field**.
+**Evidence status:** VERIFIED against original pages. **User-approval status: USER-APPROVED 2026-10-24.** This is a meditation/mental exercise within Conway's dragon-magick framework, **not a scientific test of a measurable external energy field**.
 
 ## P.64 — purpose and setup
 1. **Purpose as stated:** The exercise is intended to help the **student, guardian dragon, and co-magician dragons** understand where the student's strengths and weaknesses in energy may lie, and help establish an **unbending trust with dragons**. Do not omit the guardian: the guardian is mentioned explicitly in the stated purpose, even though the active guide in the scene is the co-magician.
@@ -38,4 +38,4 @@
 - Any eventual illustrative or game interpretation must distinguish Conway's **textually specified elements** from **artist-designed details**.
 
 ## Approval / correction history
-- **2026-10-24:** Original p.64 and p.65 video frames reread and compared with original brief Atlas entry. **Added:** guardian's role in purpose; exact white-to-gray-to-dark lighting; co-magician's gestures and telepathy; safety/comfort and comparative attraction of both ends; detailed dark-first sequence, breath, willpower, astral hold, pause, bright-second sequence, reflection questions and confidential outcome. **No user approval assumed; awaiting William's review.**
+- **2026-10-24:** Original p.64 and p.65 video frames reread and compared with original brief Atlas entry. **Added:** guardian's role in purpose; exact white-to-gray-to-dark lighting; co-magician's gestures and telepathy; safety/comfort and comparative attraction of both ends; detailed dark-first sequence, breath, willpower, astral hold, pause, bright-second sequence, reflection questions and confidential outcome. **Approval recorded:** William explicitly stated “Approved. Well done” on 2026-10-24, approving this detailed page-by-page source account and its evidence boundaries. No unsupported visual detail or independently unverified spiritual claim was approved as fact.
