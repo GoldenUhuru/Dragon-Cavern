@@ -1,6 +1,6 @@
 # DC-P063 — Dragon Alchemy
 
-**Primary source:** D. J. Conway, *Mystical Dragon Magick*, pp.63–64, chapter *The Way of the Dragon Apprentice*. **Source video:** `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4`; directly legible saved frames `dc_research_002_frames/t34.jpg` (p.63) and `t36.jpg` (p.64). **Evidence status: VERIFIED (direct page review). Approval status: AWAITING WILLIAM'S APPROVAL.** Last source review: 2026-10-24.
+**Primary source:** D. J. Conway, *Mystical Dragon Magick*, pp.63–64, chapter *The Way of the Dragon Apprentice*. **Source video:** `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4`; directly legible saved frames `dc_research_002_frames/t34.jpg` (p.63) and `t36.jpg` (p.64). **Evidence status: VERIFIED (direct page review). Approval status: USER-APPROVED 2026-10-24.** Last source review: 2026-10-24.
 
 **Scope:** This passage is an explanatory essay about Conway's spiritual and historical claims, **not a meditation or ritual with physical scene, concrete dragon appearances or step-by-step gameplay**. All magical and historical propositions below are *attributed to Conway*; they are not independently verified history or science.
 
@@ -29,4 +29,4 @@
 - The preceding p.63 lines before *Dragon Alchemy* belong to the answer to **Dragon Ride Meditation**, not this section.
 
 ## Approval log
-- **2026-10-24:** Expanded after page-by-page comparison with printed pp.63–64 and earlier GitHub entry. **Awaiting William's explicit approval or corrections.** No approval has been assumed.
+- **2026-10-24:** Expanded after page-by-page comparison with printed pp.63–64 and earlier GitHub entry. **William approved on 2026-10-24**, writing: “Approved. Well done, very thorough.” This approval applies to the page-by-page source-derived account, explicit source attribution, and documented limits. It does not independently validate the book's metaphysical or historical claims.
