@@ -3,7 +3,7 @@
 **Source:** D. J. Conway, *Mystical Dragon Magick*, printed pp.65–66, section “Dragon Apprentice Ritual”.
 **Visual source:** already uploaded `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4`.
 **Direct evidence:** legible video-derived `dc_research_002_frames/t37.jpg` (p.65) and `dc_research_002_frames/t38.jpg` (p.66), inspected again 2026-10-24.
-**Status:** SOURCE-VERIFIED BY DIRECT PAGE REVIEW; **USER APPROVAL PENDING** (as of 2026-10-24).
+**Status:** SOURCE-VERIFIED BY DIRECT PAGE REVIEW; **USER-APPROVED 2026-10-24**.
 
 ## Critical contextual distinction
 Although the *heading* says “Dragon Apprentice Ritual,” the ceremony is about an **Apprentice seeking admission into the Enchanter Ring**, the second of the Five Inner Rings. The candidate says they have remained true to their earlier Apprentice promise. Do **not** describe this as the first Apprentice admission ritual, or conflate it with the separate Acceptance in Dragon Studies Meditation (pp.30–33).
@@ -50,4 +50,4 @@ Although the *heading* says “Dragon Apprentice Ritual,” the ceremony is abou
 
 ## Audit and correction log
 - Original index recorded ritual pp.65–66 and correctly established **transition to Enchanter** and **ends p.66**.
-- **2026-10-24 source review:** Verified original photographs; corrected ambiguous claim that **Aldram “took original apprenticeship oath”** to specify he **received the STUDENT'S oath**. Added placement of jewelry on altar cloth, Full Moon as preferable, sensory cave details, **two palms up**, light dragon-skin contact, content but not unsourced exact wording of the oath, “power hand” definition, **raised clenched fist**, separate spoken exclamation, forehead→heart order, confidentiality pledge, and p.52/p.54 dependencies. **Awaiting William's explicit approval**.
+- **2026-10-24 source review:** Verified original photographs; corrected ambiguous claim that **Aldram “took original apprenticeship oath”** to specify he **received the STUDENT'S oath**. Added placement of jewelry on altar cloth, Full Moon as preferable, sensory cave details, **two palms up**, light dragon-skin contact, content but not unsourced exact wording of the oath, “power hand” definition, **raised clenched fist**, separate spoken exclamation, forehead→heart order, confidentiality pledge, and p.52/p.54 dependencies. **USER-APPROVED on 2026-10-24.** William explicitly wrote: “Approved my friend.” Approval applies to the documented page-specific source reading, the Aldram correction, the stated visual boundaries, and the p.52/p.54 cross-references; it does not independently establish the metaphysical claims or authorize invented imagery.
