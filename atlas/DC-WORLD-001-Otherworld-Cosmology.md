@@ -1,6 +1,6 @@
 # DC-WORLD-001 — Otherworld Cosmology and map of p. 39
 
-**Status:** LOCATED in prior study record; source-backed transcription of visual study, **awaiting approval of this consolidated register**.
+**Status:** Five main world descriptions **USER-APPROVED (2026-10-24)**; other map claims retain their separate evidence/review statuses. Prior visual study transcription reused; no fresh direct inspection of original p. 39 in this update.
 **Sources:** D. J. Conway, *Mystical Dragon Magick*, pp. 37–42; prior archive *Williams_Dragon_Study_Record_2026-10-10.md* (especially section 'Page 39: Map of the Otherworld'); *Dragon_Cavern_Atlas_Index_2026-10-14.md*; subsequent user-approved entries. This is **reuse of prior documentation**, not a fresh independent viewing of pp. 37–41.
 
 ## Five main levels in p. 39 diagram
@@ -44,3 +44,17 @@ William clarified that the description sounded as though Akasha floated by itsel
 ### QR-2026-10-24-002C — clarification of Five Rings review
 
 William clarified the FEL mark for **Center of the Five Rings / Four Hidden Dragons** was caused by the simplified presentation suggesting it floated separately, not by a dispute over its **drawn connection to Middleworld**. Preserve that connection, and explicitly distinguish 'separate named branch' from 'unconnected'. Both FEL flags in QR-2026-10-24-002 now have clarified wording, without claiming fresh independent inspection of the printed page 39. Earlier source approvals and travel/access restrictions remain unchanged.
+
+## Quality review QR-2026-10-24-003 — five main worlds USER-APPROVED
+
+William marked all five world descriptions **STÄMMER** on 2026-10-24, after reviewing their individual descriptions in the interactive test:
+
+| World | Pages displayed | User review |
+|---|---|---|
+| Highest | 39, 41 | USER-APPROVED |
+| Upperworld | 39–43 | USER-APPROVED |
+| Middleworld | 39–45 | USER-APPROVED |
+| Lowerworld | 39, 47–49 | USER-APPROVED |
+| Underworld | 39, 48–49 | USER-APPROVED |
+
+**Scope:** Approval covers the presented world identities, their order and the limited descriptive attributes shown in the test; it does not verify arbitrary gate routes, directions, distances, architecture or additional inferred facts. Cross-checked against this Atlas's existing p.39 world ordering and previously archived page-specific descriptions; **not a new visual examination of the original pages**. Earlier Akasha/Five Rings wording corrections remain recorded separately.
