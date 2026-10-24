@@ -40,3 +40,18 @@ Skapa en utforskbar spelprototyp av grottan, med rum, övergångar, klickbara pl
 Innan uppdraget körs i **ChatGPT Work**, dokumentera skärmbild eller avlästa värden för kvarvarande/brukad Work-kvot och exakt tid. Upprepa efter avslutad, faktiskt levererad kartbrief. Logga eventuella återställningar och andra Work-uppdrag under mätperioden. Beräkna bara skillnaden när båda mätningarna finns och samma kvotdefinition används.
 
 Se [work-kvot-logg.md](./work-kvot-logg.md). GitHub-ändringar här visar **inte** i sig hur mycket Work-kvot som förbrukats.
+
+
+## 2026-10-24 — Mission 001 source-graph milestone (awaiting William's approval)
+
+The initial cave-mapping deliverable has now been **authored and committed** without redoing the earlier 30-test Atlas:
+
+- [Detailed source-critical Kaudra map brief](001-kaudras-grotta-kartbrief-2026-10-24.md): documented places, source support and visual limits.
+- [Machine-readable cave relationship graph](../game/data/kaudra-cave-evidence-graph.v1.json): **13 Atlas entities, 11 supported semantic relations, 6 unresolved / unestablished links**.
+- [Standalone offline source explorer](../game/kaudra-source-explorer.html): click to inspect entity descriptions, sources, connections and missing paths. **This is a prototype for reviewing knowledge, not a rendered game or canonical floor plan.**
+- Existing video was checked **only at printed p.45** for the misty Dream Gate's arrival **near** Kaudra. The previously approved p.42–43 Atlas, including Test X and AD, supplied the principal cave evidence; its earlier original-photo reviews are archived in the source record even though their standalone images are not available now.
+
+### Approval gate before immersive construction
+Existing factual Atlas entries remain **user-approved**, but this new composition/map brief and the technical prototype are **awaiting William's review**. No actual cave geometry, entrance/exit corridor, scale colour, Council appearance or forced Garden location was introduced.
+
+**Next step:** William reviews the brief and its six explicitly unresolved connection questions. Only after acceptance should an explorable cave **game world** be designed, with its every newly invented geometric, visual, and interactive detail marked as **game design**, not as Conway's source.
