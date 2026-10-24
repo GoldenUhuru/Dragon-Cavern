@@ -2,7 +2,7 @@
 
 **Mission started:** 2026-10-24, following William's explicit request to proceed from completed DC-RESEARCH-002.
 
-**Mission result:** **PARTIAL — p.52–54 directly VERIFIED and USER-APPROVED on 2026-10-24; p.7–8 source referred to but direct text UNRESOLVED.** Never use one status for both.
+**Mission result (latest, 2026-10-24):** **p.52–54 DIRECTLY VERIFIED and USER-APPROVED; printed pp.7–8 DIRECTLY VERIFIED from new original photographs; user approval of pp.7–8 PENDING.** Retain the historical source gap only as an audit of earlier states.
 
 ## Evidence and reuse
 - Already uploaded p.42–66 primary video `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4` mounted and directly examined for pp.52–54.
@@ -60,3 +60,22 @@
 **Exact next source needed:** printed pp.7–8 photos or readable reaccess to the earlier 2m10s `1000009915.mp4` video; **not** a repetition of the entire book study. Present exact page review and corrections to William before approval.
 
 **Mission status:** Partially progressed. Thematic knowledge recovered and indexed. Page-exact meditation opening and ending remain **UNRESOLVED** and **NOT USER-APPROVED**.
+
+
+## Resolution of original photo-access gap — 2026-10-24 at approximately 17:25 UTC
+
+**William supplied two direct camera photographs of printed pages 7 and 8** (`/mnt/data/p7.jpg` and `/mnt/data/p8.jpg`) in the project conversation. Both were legible, including printed page numbers and labelled boundaries. Page 7 was viewed rotated upright. Original early-video retrieval no longer required to verify these specific pages. All earlier descriptions of p.7–8 as UNRESOLVED above represent **prior audit status, now superseded**.
+
+**NEW direct source findings (V):**
+- p.7 preparation: eliminate disturbances, optional soft instrumental music, candles/incense not required, comfortable chair rather than lying down, eyes may open if needed; distinguish author's trance/spiritual assertions from facts.
+- p.7 common **“(Beginning of meditation)”**: straight-backed seated posture, feet flat, hands lap; **three** slow deep breaths; white light, **guardian spirits**; relax; stand beside a **well**, drop upsetting people/things into its darkness, walk away; **“(End of beginning)”**.
+- p.7–8 **specific introductory narrative** between blocks: huge wooden door/ironwork, chain and bell; bright-coloured Gate dragon; narrow spacious curved First Ring room with skylights; displays, registry, tiny silver dragon insignia, one permitted question and towering cone of light.
+- p.8 common **“(Ending)”**: walk into light, return to physical body; slowly move fingers and feet until comfortable on physical plane; **“(End of meditation)”**.
+- **Boundary correction:** Earlier summary did not discriminate the *well* inside reusable beginning from the *guarded gate/registry* scene **outside** that beginning. Source labels now resolve this. Do not import gate scene into all later meditations.
+
+**Updated source files:**
+- [DC-P007–P008 Standard Meditation Beginning and Ending](DC-P007-P008-Standard-Meditation-Opening-Ending.md) — **V, approval pending**.
+- [DC-P007–P008 First Ring Gate Introduction](DC-P007-P008-First-Ring-Gate-Introduction.md) — **V, approval pending**.
+- [DC-P052–P054 Ritual Beginning and Ending](DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md) — **V, user-approved**.
+
+**Outstanding step:** Present and obtain **William's explicit approval** on the two new pp.7–8 accounts before changing their user-approval status. This source reading does not affect previously recorded approval of pp.52–54 or pp.58–66.
