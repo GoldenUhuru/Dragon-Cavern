@@ -3,7 +3,7 @@
   "id": "DC-MAP-001-KAUDRA-CAVE",
   "title": "Kaudra and Her Special Cave — evidence-only relationship map",
   "created": "2026-10-24",
-  "status": "proposed source compilation awaiting William's approval; source facts have prior scoped approvals",
+  "status": "USER-APPROVED source-relationship compilation, 2026-10-24; future visuals, floor plans and gameplay not approved",
   "is_floor_plan": false,
   "is_playable_game": false,
   "description": "Graph expresses source-attested containment, association, meetings and proximity. It does not specify coordinates, doorways, distances, room counts, navigation or graphical character appearances.",
@@ -459,5 +459,11 @@
     "Do not identify Kaudra as Dhuaar member or head of Web Weavers.",
     "Do not blend Shrine of Remembrance with p42 pantheon shrines, p47 Shrine of Ancestors, or Garden shrines.",
     "Visualize physical structures as abstract labels until source-specific detail and artistic decisions receive separate approval."
-  ]
+  ],
+  "compilation_approval": {
+    "status": "user-approved",
+    "date": "2026-10-24",
+    "response": "Perfect my friend",
+    "scope": "13 source nodes, 11 semantic relations, 6 explicit unresolved or unattested connections; not physical corridors, visual design or game mechanics"
+  }
 }
