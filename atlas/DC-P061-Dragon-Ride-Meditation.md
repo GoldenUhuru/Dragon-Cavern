@@ -2,7 +2,7 @@
 
 **Primary source:** D. J. Conway, *Mystical Dragon Magick*, printed pp.61–63. Original supplied video: `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4`. **Direct page frames inspected:** `dc_research_002_frames/t31.jpg` (p.61), `t32.jpg` or `t33.jpg` (p.62), and `t34.jpg` (p.63).
 
-**Research status:** VERIFIED against legible video frames. **William's approval: PENDING.** This passage is a **scripted meditation**, not a claim of a real journey.
+**Research status:** VERIFIED against legible video frames. **William's approval: USER-APPROVED on 2026-10-24.** This passage is a **scripted meditation**, not a claim of a real journey.
 
 ## Page 61 — meditation opens; initial flight
 - The separate preceding **Basic Personal Protection** section ends above the heading *Dragon Ride Meditation* on p.61.
@@ -40,4 +40,4 @@
 - Standard opening p.7 and ending p.8 are **cross-references requiring their own source reading**.
 
 ## Approval history
-- **2026-10-24:** Source-based page-by-page review prepared and corrections/refinements documented. **Awaiting William's explicit approval or corrections.**
+- **2026-10-24:** Source-based page-by-page review prepared and corrections/refinements documented. **William approved the page-by-page review on 2026-10-24**, stating “Approved. Well done.” Approval applies to the page-specific sourced reading, distinctions, and limitations documented above. Unspecified imagery and independently unverified metaphysical claims remain unapproved as fact.
