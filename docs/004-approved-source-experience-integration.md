@@ -42,12 +42,14 @@ flowchart TB
     RB --> CM --> RE
     RB --> ER --> RE
 
-    BA -.->|"Self-contained exercise; no p7/8 reference"| BA
-    PR -.->|"Text-based study"| PR
-    AL -.->|"Text-based study"| AL
+    subgraph Independent["Independent study and visualization experiences"]
+        BA
+        PR
+        AL
+    end
 ```
 
-**Diagram rule:** Graph edges indicate **reuse of book-referenced procedural blocks**, not physical corridors, gates or travel routes between worlds. Dotted self-indicators for the remaining three are category reminders, **not** loops in a game world.
+**Diagram rule:** Graph edges indicate **reuse of book-referenced procedural blocks**, not physical corridors, gates or travel routes between worlds. The independent nodes deliberately have **no invented connections** to shared openings or other places.
 
 ### Exact integration table
 
