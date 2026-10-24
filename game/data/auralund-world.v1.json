@@ -1,0 +1,1405 @@
+{
+  "schema_version": "1.0.0",
+  "created": "2026-10-25",
+  "name": "Auralund",
+  "subtitle": "Där roten minns stjärnan och världen finner sin ton.",
+  "edition": "Rot - Stjärna - Ton / första gestaltningen",
+  "source_graphs": {
+    "cave": {
+      "file": "game/data/kaudra-cave-evidence-graph.v1.json",
+      "sha256": "bc1c4f1a663a6be131653db53f4624dd19260f33b373027ea4d1e9e939fe31a4"
+    },
+    "experiences": {
+      "file": "game/data/atlas-experience-graph.v1.json",
+      "sha256": "3d6f21ef01c94416277dadd6d75785330f4cf53a0a1f9cf1551c83858d750633"
+    }
+  },
+  "cave": {
+    "schema_version": "1.0.0",
+    "id": "DC-MAP-001-KAUDRA-CAVE",
+    "title": "Kaudra and Her Special Cave — evidence-only relationship map",
+    "created": "2026-10-24",
+    "status": "USER-APPROVED source-relationship compilation, 2026-10-24; future visuals, floor plans and gameplay not approved",
+    "is_floor_plan": false,
+    "is_playable_game": false,
+    "description": "Graph expresses source-attested containment, association, meetings and proximity. It does not specify coordinates, doorways, distances, room counts, navigation or graphical character appearances.",
+    "evidence_legend": {
+      "T": "preserved user-supplied printed-page transcription/summary",
+      "V": "directly examined source image/video frame in the stated research pass",
+      "H": "historical photo review confirmed in Oct 23 Atlas but original image not currently archived here",
+      "A": "earlier William approval for precisely scoped source assertions",
+      "C": "contextual interpretation from nearby source; not literal geometry",
+      "U": "unresolved or not attested"
+    },
+    "source_register": [
+      {
+        "id": "SRC-P041",
+        "pages": [
+          41
+        ],
+        "evidence": [
+          "T"
+        ],
+        "archive": "Williams_Dragon_Study_Record_2026-10-10.md",
+        "note": "Upperworld context and Kaudra's dwelling as historically indexed; original early video not available for direct reinspection here"
+      },
+      {
+        "id": "SRC-P042",
+        "pages": [
+          42
+        ],
+        "evidence": [
+          "T",
+          "H",
+          "A"
+        ],
+        "archive": "DC-P042-001-L; approved expanded Test X in Dragon_Cavern_Atlas_Index_2026-10-14.md",
+        "note": "Glittering crystal scales; Kaudra protects sacred crystal cave near Gate to Highest. Historical 2026-10-23 photo review noted, no image archived in current session"
+      },
+      {
+        "id": "SRC-P043",
+        "pages": [
+          43
+        ],
+        "evidence": [
+          "T",
+          "H",
+          "A"
+        ],
+        "archive": "DC-P043-001; approved Tests X, AD, L in Dragon_Cavern_Atlas_Index_2026-10-14.md",
+        "note": "Huge shadow-chambered cave, Dream Chamber, council, side chambers, cleansing and garden; historical photograph reviewed Oct23, archived transcription remains primary accessible detail"
+      },
+      {
+        "id": "SRC-P044",
+        "pages": [
+          44
+        ],
+        "evidence": [
+          "V",
+          "A"
+        ],
+        "archive": "Dragon_Cavern_Atlas_Index_2026-10-14.md; p44 video/source image",
+        "note": "Web Weaver context and side-area; not cave floor plan"
+      },
+      {
+        "id": "SRC-P045",
+        "pages": [
+          45
+        ],
+        "evidence": [
+          "V",
+          "A"
+        ],
+        "archive": "CH1 P42-66 video, targeted frame ca 00:02.5 (2026-10-24)",
+        "note": "Misty Dream Gate leads back into Upperworld near Kaudra; no direct cave access"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "DC-BEING-X-KAUDRA",
+        "label": "Selvarin",
+        "kind": "being",
+        "realm": "Upperworld",
+        "description": "Female Web Weaver seer dragon. Crystal scales glitter; scale colour, body structure and size are not established.",
+        "attributes": [
+          "female seer dragon",
+          "Web Weaver member",
+          "glittering crystal scales"
+        ],
+        "sources": [
+          "SRC-P041",
+          "SRC-P042",
+          "SRC-P043"
+        ],
+        "approval": "prior-user-approved",
+        "source_label": "Kaudra",
+        "creative_treatment": "Genomskinliga opalfjäll med havsgrönt skimmer; hon väntar tills frågan är färdig.",
+        "auralund_id": "AR-0029"
+      },
+      {
+        "id": "DC-KAUDRA-CAVE-HUGE",
+        "label": "Stillgrottan",
+        "kind": "place",
+        "realm": "Upperworld (context)",
+        "description": "Huge cave containing shadowy chambers. Source does not supply an architectural floor plan.",
+        "attributes": [
+          "enormous",
+          "shadowy chambers"
+        ],
+        "sources": [
+          "SRC-P043"
+        ],
+        "approval": "source-facts-prior-approved",
+        "source_label": "Kaudra's enormous cave",
+        "creative_treatment": "Blågrön sten; kristallens svaga ljus visar djupet utan att möblera det.",
+        "auralund_id": "AR-0116"
+      },
+      {
+        "id": "DC-PLACE-AD-DREAM-CHAMBER",
+        "label": "Stillglaset",
+        "kind": "place",
+        "realm": "inside Kaudra's enormous cave",
+        "description": "Very large, transparent, bubble-like crystal; Dhuaar meets within; crystal shields meeting participants' thoughts from interfering vibrational chatter in Conway's account.",
+        "attributes": [
+          "large crystal",
+          "transparent",
+          "bubble-like",
+          "Council meetings",
+          "thought shielding (Conway claim)"
+        ],
+        "sources": [
+          "SRC-P043"
+        ],
+        "approval": "prior-user-approved",
+        "source_label": "Dream Chamber",
+        "creative_treatment": "Nästan färglös volym med tunn opalgrön kant och inga införda troner.",
+        "auralund_id": "AR-0117"
+      },
+      {
+        "id": "DC-KAUDRA-SIDE-CHAMBERS",
+        "label": "Lyssnarrummen",
+        "kind": "place-group",
+        "realm": "inside huge cave",
+        "description": "Plural chambers collectively described as containing meditation seats, small shrines, counselor benches and thrones. No number of chambers or one-room-per-furnishing allocation supplied.",
+        "attributes": [
+          "meditation seats",
+          "small shrines",
+          "counselor benches",
+          "thrones"
+        ],
+        "sources": [
+          "SRC-P043"
+        ],
+        "approval": "source-facts-prior-approved",
+        "source_label": "Other side chambers",
+        "creative_treatment": "Blågröna skuggor och varmt kopparljus; inget nytt rumsantal.",
+        "auralund_id": "AR-0118"
+      },
+      {
+        "id": "DC-KAUDRA-CLEANSING-CHAMBER",
+        "label": "Det oskrivna rummet",
+        "kind": "place",
+        "realm": "inside huge cave (passage context)",
+        "description": "An empty chamber to which Kaudra may send a student she judges ready and worthy for cleansing and opening of highest spiritual connections in Conway's system. Not Dream Chamber.",
+        "attributes": [
+          "empty",
+          "conditional Kaudra-guided cleansing"
+        ],
+        "sources": [
+          "SRC-P043"
+        ],
+        "approval": "source-facts-prior-approved",
+        "source_label": "Empty cleansing chamber",
+        "creative_treatment": "Tomhet är formvalet; inga nya kar, ljusaltaren eller instrument.",
+        "auralund_id": "AR-0119"
+      },
+      {
+        "id": "DC-COUNCIL-L-DHUAAR",
+        "label": "Samklangsrådet",
+        "kind": "collective",
+        "realm": "meets in Dream Chamber",
+        "description": "Discusses matters vital to Multiverse balance; specific members, number, seating and Kaudra membership not established.",
+        "attributes": [
+          "council meetings",
+          "Multiverse balance concerns"
+        ],
+        "sources": [
+          "SRC-P043"
+        ],
+        "approval": "prior-user-approved",
+        "source_label": "Dhuaar — High Council of the Multiverse",
+        "creative_treatment": "Lyssnande i centrum; inga nya fasta stolar eller ledare.",
+        "auralund_id": "AR-0078"
+      },
+      {
+        "id": "DC-KAUDRA-UPPERWORLD-CRYSTAL-CAVE",
+        "label": "Gryningskristallens grotta",
+        "kind": "place",
+        "realm": "Upperworld",
+        "description": "A crystal cave sacred site protected by Kaudra, near the gate to the Highest. Identity with the p43 huge cave remains unresolved.",
+        "attributes": [
+          "crystal cave",
+          "sacred site",
+          "near Gate to Highest",
+          "protected by Kaudra"
+        ],
+        "sources": [
+          "SRC-P042"
+        ],
+        "approval": "prior-user-approved",
+        "source_label": "Sacred crystal cave near the Highest gate",
+        "creative_treatment": "Bleka opalytor i mörker; fristående referensbild.",
+        "auralund_id": "AR-0120"
+      },
+      {
+        "id": "DC-KAUDRA-GATE-HIGHEST",
+        "label": "Urtröskeln",
+        "kind": "gate",
+        "realm": "Upperworld boundary",
+        "description": "Gate named only as a landmark near the sacred crystal cave in p42 context. No cave entrance, physical design or Kaudra gate-guarding role established here.",
+        "attributes": [
+          "proximity reference only"
+        ],
+        "sources": [
+          "SRC-P042"
+        ],
+        "approval": "referenced",
+        "source_label": "Gate to the Highest",
+        "creative_treatment": "En pärlljus rand utan visad genomfart.",
+        "auralund_id": "AR-0102"
+      },
+      {
+        "id": "DC-KAUDRA-GARDEN-WISDOM",
+        "label": "Alla vägars trädgård",
+        "kind": "place",
+        "realm": "Upperworld (passage context)",
+        "description": "Garden enclosed by a high hedge; described as seemingly endless and representing many cultures. Shrines, temples, gazebos, flower-covered shelters, flowers, streams, waterfalls, fountains and small bridges over ponds; students from the Multiverse may be encountered. Placement inside cave NOT verified.",
+        "attributes": [
+          "high hedge",
+          "apparently endless extent",
+          "all cultures represented",
+          "shrines and temples",
+          "gazebos",
+          "flower-covered shelters",
+          "flowers",
+          "streams",
+          "waterfalls",
+          "fountains",
+          "ponds and small bridges",
+          "visiting students"
+        ],
+        "sources": [
+          "SRC-P043"
+        ],
+        "approval": "source-facts-prior-approved",
+        "source_label": "Garden of Wisdom and Solitude",
+        "creative_treatment": "Salviagrönt, mild ros och kalkljus kring broar och vatten.",
+        "auralund_id": "AR-0121"
+      },
+      {
+        "id": "DC-KAUDRA-DREAM-GATE",
+        "label": "Disporten",
+        "kind": "gate",
+        "realm": "returns to Upperworld near Kaudra",
+        "description": "Misty gate that returns traveler to Upperworld near Kaudra according to p45. It is not Dream Chamber and does not specifically open into cave.",
+        "attributes": [
+          "misty",
+          "destination near Kaudra"
+        ],
+        "sources": [
+          "SRC-P045"
+        ],
+        "approval": "prior-user-approved",
+        "source_label": "Misty Dream Gate",
+        "creative_treatment": "Dimgrått med opalskiftning, ingen korridor ritas.",
+        "auralund_id": "AR-0095"
+      },
+      {
+        "id": "DC-KAUDRA-WEB-GATE",
+        "label": "Trådporten",
+        "kind": "gate",
+        "realm": "Upperworld",
+        "description": "Gate with cobweb painting leading to the Web Weavers special side area. This route is not established as a direct cave entrance.",
+        "attributes": [
+          "cobweb painting",
+          "leads to Web Weaver side area"
+        ],
+        "sources": [
+          "SRC-P042",
+          "SRC-P044"
+        ],
+        "approval": "prior-user-approved",
+        "source_label": "Web Gate",
+        "creative_treatment": "Tunt kopparnät över opal.",
+        "auralund_id": "AR-0088"
+      },
+      {
+        "id": "DC-KAUDRA-WEB-WEAVERS",
+        "label": "Vävsystrarna",
+        "kind": "collective",
+        "realm": "side area linked to Upperworld",
+        "description": "Female seer dragons; Kaudra belongs to them, not established as their leader. Do not conflate with separate Star-Moon clan.",
+        "attributes": [
+          "female seer dragons",
+          "group membership"
+        ],
+        "sources": [
+          "SRC-P043",
+          "SRC-P044"
+        ],
+        "approval": "prior-user-approved",
+        "source_label": "Web Weavers",
+        "creative_treatment": "Trådmönster mellan opal och blått; individerna får egna uttryck.",
+        "auralund_id": "AR-0053"
+      },
+      {
+        "id": "DC-KAUDRA-SHRINE-REMEMBRANCE",
+        "label": "Försoningslyktan",
+        "kind": "external-context-place",
+        "realm": "Otherworld sacred-site context; exact site unknown",
+        "description": "Approved separate p43 sacred-site entry. Not demonstrated to be inside the huge cave or the Garden.",
+        "attributes": [
+          "spiritual growth",
+          "some karma removal (Conway claim)",
+          "attending angel"
+        ],
+        "sources": [
+          "SRC-P043"
+        ],
+        "approval": "prior-user-approved",
+        "source_label": "Shrine of Remembrance",
+        "creative_treatment": "Ett litet varmt ljus, utan ny fast byggnadsgeometri.",
+        "auralund_id": "AR-0112"
+      }
+    ],
+    "relations": [
+      {
+        "id": "REL-001",
+        "from": "DC-BEING-X-KAUDRA",
+        "to": "DC-KAUDRA-WEB-WEAVERS",
+        "type": "is_member_of",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Kaudra belongs to the Web Weavers; NOT their established leader."
+      },
+      {
+        "id": "REL-002",
+        "from": "DC-BEING-X-KAUDRA",
+        "to": "DC-KAUDRA-CAVE-HUGE",
+        "type": "has_special_cave",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Page43 describes Kaudra's huge cave; physical access mechanism unknown."
+      },
+      {
+        "id": "REL-003",
+        "from": "DC-KAUDRA-CAVE-HUGE",
+        "to": "DC-PLACE-AD-DREAM-CHAMBER",
+        "type": "contains",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Huge cave contains transparent bubble-like Dream Chamber."
+      },
+      {
+        "id": "REL-004",
+        "from": "DC-COUNCIL-L-DHUAAR",
+        "to": "DC-PLACE-AD-DREAM-CHAMBER",
+        "type": "meets_inside",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Council convenes within the transparent crystal; no furniture or Council number established."
+      },
+      {
+        "id": "REL-005",
+        "from": "DC-KAUDRA-CAVE-HUGE",
+        "to": "DC-KAUDRA-SIDE-CHAMBERS",
+        "type": "has_side_chambers",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Plural side chambers; number and doorway layout unknown."
+      },
+      {
+        "id": "REL-006",
+        "from": "DC-KAUDRA-CAVE-HUGE",
+        "to": "DC-KAUDRA-CLEANSING-CHAMBER",
+        "type": "contains_distinct_empty_chamber",
+        "certainty": "context",
+        "source": "SRC-P043",
+        "explanation": "Empty chamber appears in description of Kaudra's cave; separate from Dream Chamber; exact relation to other side chambers unspecified."
+      },
+      {
+        "id": "REL-007",
+        "from": "DC-BEING-X-KAUDRA",
+        "to": "DC-KAUDRA-CLEANSING-CHAMBER",
+        "type": "may_send_ready_student_to",
+        "certainty": "explicit_conditional",
+        "source": "SRC-P043",
+        "explanation": "Only after Kaudra judges candidate ready and worthy; no automatic game access."
+      },
+      {
+        "id": "REL-008",
+        "from": "DC-BEING-X-KAUDRA",
+        "to": "DC-KAUDRA-UPPERWORLD-CRYSTAL-CAVE",
+        "type": "protects",
+        "certainty": "explicit",
+        "source": "SRC-P042",
+        "explanation": "Cave protected, not proof she guards the Gate to Highest."
+      },
+      {
+        "id": "REL-009",
+        "from": "DC-KAUDRA-UPPERWORLD-CRYSTAL-CAVE",
+        "to": "DC-KAUDRA-GATE-HIGHEST",
+        "type": "near",
+        "certainty": "explicit",
+        "source": "SRC-P042",
+        "explanation": "Only near; no passage or precise distance."
+      },
+      {
+        "id": "REL-010",
+        "from": "DC-KAUDRA-DREAM-GATE",
+        "to": "DC-BEING-X-KAUDRA",
+        "type": "returns_traveller_to_upperworld_near",
+        "certainty": "explicit",
+        "source": "SRC-P045",
+        "explanation": "Near Kaudra, not proven to enter her cave."
+      },
+      {
+        "id": "REL-011",
+        "from": "DC-KAUDRA-WEB-GATE",
+        "to": "DC-KAUDRA-WEB-WEAVERS",
+        "type": "leads_to_groups_side_area",
+        "certainty": "explicit",
+        "source": "SRC-P042",
+        "explanation": "Web Weaver side area; no cave doorway directly established."
+      }
+    ],
+    "non_relations": [
+      {
+        "id": "UNRESOLVED-001",
+        "a": "DC-KAUDRA-UPPERWORLD-CRYSTAL-CAVE",
+        "b": "DC-KAUDRA-CAVE-HUGE",
+        "question": "Are the p42 Upperworld crystal cave near the Highest gate and p43 enormous Dream Chamber cave the same site?",
+        "status": "unresolved",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-002",
+        "a": "DC-KAUDRA-GARDEN-WISDOM",
+        "b": "DC-KAUDRA-CAVE-HUGE",
+        "question": "Is the Garden within or outside the cave? Is there a source-stated entrance/passage?",
+        "status": "unresolved",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-003",
+        "a": "DC-KAUDRA-SHRINE-REMEMBRANCE",
+        "b": "DC-KAUDRA-GARDEN-WISDOM",
+        "question": "Is Shrine of Remembrance a shrine in the Garden, a cave side chamber, or elsewhere?",
+        "status": "unresolved",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-004",
+        "a": "DC-KAUDRA-DREAM-GATE",
+        "b": "DC-KAUDRA-CAVE-HUGE",
+        "question": "Is there any directly described passage from the Dream Gate to Kaudra's cave?",
+        "status": "not_attested",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-005",
+        "a": "DC-KAUDRA-WEB-GATE",
+        "b": "DC-KAUDRA-CAVE-HUGE",
+        "question": "Is there a direct walkable corridor from the Web Gate to the huge cave?",
+        "status": "not_attested",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-006",
+        "a": "DC-KAUDRA-SIDE-CHAMBERS",
+        "b": "DC-KAUDRA-CLEANSING-CHAMBER",
+        "question": "Is the cleansing chamber one of the unnamed side chambers or a separate passage?",
+        "status": "unresolved",
+        "not_a_corridor": true
+      }
+    ],
+    "visual_constraints": [
+      "Don't design cave outline or corridors as book-verified; no source floor plan, distances or entrance elevation.",
+      "Don't locate Garden inside cave or mark a corridor to it until the source establishes the link.",
+      "Don't merge the two crystal cave references or infer a path between them.",
+      "Keep transparent bubble-like Dream Chamber distinct from misty Dream Gate.",
+      "No dragon palette, wing count, horn count, crystal scale type, body proportions or Council member appearance established.",
+      "Do not place side-chamber meditation seats, small shrines, counselor benches or thrones inside Dream Chamber.",
+      "Do not treat God/Goddess/angels as permanently installed props; occasional appearance and angel entourage is narrated conditionally.",
+      "Do not identify Kaudra as Dhuaar member or head of Web Weavers.",
+      "Do not blend Shrine of Remembrance with p42 pantheon shrines, p47 Shrine of Ancestors, or Garden shrines.",
+      "Visualize physical structures as abstract labels until source-specific detail and artistic decisions receive separate approval."
+    ],
+    "compilation_approval": {
+      "status": "user-approved",
+      "date": "2026-10-24",
+      "response": "Perfect my friend",
+      "scope": "13 source nodes, 11 semantic relations, 6 explicit unresolved or unattested connections; not physical corridors, visual design or game mechanics"
+    }
+  },
+  "experiences": {
+    "schema_version": "1.0.0",
+    "title": "Dragon Cavern — approved-source experience connection graph",
+    "created_date": "2026-10-24",
+    "publication_status": "source-traceable integration blueprint, NOT playable code",
+    "integration_approval": "proposed, awaiting William's review; linked individual Atlas entries already user-approved",
+    "evidence_rules": {
+      "source_canon": "Only cited elements in approved Atlas source entries are Conway-attributed details.",
+      "composition": "Whether a scene becomes a navigable or interactive game experience is a Dragon Cavern implementation decision, not a Conway quotation.",
+      "visual": "Missing geometry, costume, colour, sound design and mechanics stay unspecified until separately approved.",
+      "approval_index": "atlas/DC-RESEARCH-003-Approvals-2026-10-24.md",
+      "metaphysical": "Do not label esoteric or historical claims as externally verified science or history."
+    },
+    "sources": [
+      {
+        "id": "DC-P007-P008-MEDITATION",
+        "atlas_file": "atlas/DC-P007-P008-Standard-Meditation-Opening-Ending.md",
+        "pages": [
+          7,
+          8
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      },
+      {
+        "id": "DC-P007-P008-FIRST-RING",
+        "atlas_file": "atlas/DC-P007-P008-First-Ring-Gate-Introduction.md",
+        "pages": [
+          7,
+          8
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      },
+      {
+        "id": "DC-P052-P054",
+        "atlas_file": "atlas/DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md",
+        "pages": [
+          52,
+          53,
+          54
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      },
+      {
+        "id": "DC-P058",
+        "atlas_file": "atlas/DC-P058-Welcoming-Other-Dragons-Meditation.md",
+        "pages": [
+          58,
+          59,
+          60
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      },
+      {
+        "id": "DC-P060",
+        "atlas_file": "atlas/DC-P060-Basic-Personal-Protection.md",
+        "pages": [
+          60,
+          61
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      },
+      {
+        "id": "DC-P061",
+        "atlas_file": "atlas/DC-P061-Dragon-Ride-Meditation.md",
+        "pages": [
+          61,
+          62,
+          63
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      },
+      {
+        "id": "DC-P063",
+        "atlas_file": "atlas/DC-P063-Dragon-Alchemy.md",
+        "pages": [
+          63,
+          64
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      },
+      {
+        "id": "DC-P064",
+        "atlas_file": "atlas/DC-P064-Testing-Your-Energy-Balance.md",
+        "pages": [
+          64,
+          65
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      },
+      {
+        "id": "DC-P065",
+        "atlas_file": "atlas/DC-P065-Dragon-Apprentice-Ritual.md",
+        "pages": [
+          65,
+          66
+        ],
+        "source_kind": "Conway-book-as-reviewed",
+        "verified": true,
+        "user_approved": true
+      }
+    ],
+    "modules": [
+      {
+        "id": "meditation.beginning",
+        "kind": "reusable-meditation-block",
+        "source": "DC-P007-P008-MEDITATION",
+        "pages": [
+          7
+        ],
+        "printed_bounds": {
+          "starts": "(Beginning of meditation)",
+          "ends": "(End of beginning)"
+        },
+        "steps": [
+          "sit upright in chair; back straight, feet flat on floor, hands in lap",
+          "take three slow deep breaths; progressively relax muscles",
+          "visualize brilliant white light with guardian spirits at your side",
+          "relax until light and comfortable",
+          "imagine standing beside a well",
+          "symbolically leave upsetting matters/people in well's darkness",
+          "walk away from well and leave disturbances behind"
+        ],
+        "not_included": [
+          "huge wooden gate",
+          "Gate dragon",
+          "First Ring registry"
+        ],
+        "auralund_name": "Att landa",
+        "auralund_id": "AR-0203"
+      },
+      {
+        "id": "meditation.ending",
+        "kind": "reusable-meditation-block",
+        "source": "DC-P007-P008-MEDITATION",
+        "pages": [
+          8
+        ],
+        "printed_bounds": {
+          "starts": "(Ending)",
+          "ends": "(End of meditation)"
+        },
+        "steps": [
+          "walk into the light",
+          "return to awareness of physical body",
+          "move fingers and feet slowly until comfortable again"
+        ],
+        "note": "Printed walk-into-light instruction follows a specific light-cone scene; do not import that cone's architecture into other meditations.",
+        "auralund_name": "Att komma hem",
+        "auralund_id": "AR-0204"
+      },
+      {
+        "id": "ritual.beginning",
+        "kind": "reusable-ritual-block",
+        "source": "DC-P052-P054",
+        "pages": [
+          52
+        ],
+        "printed_bounds": {
+          "starts": "Beginning of ritual",
+          "ends": "End of beginning"
+        },
+        "steps": [
+          "altar cloth on floor or ground with one side north",
+          "salt bowl to west/left; water bowl to east/right; altar stones before seated participant",
+          "kneel facing north; left hand above salt, right above water; invoke positive universal powers",
+          "stand and circle altar cloth clockwise, sprinkling salt in west-north-east-south order",
+          "repeat the directional circuit with water"
+        ],
+        "not_included": [
+          "blue Apprentice ribbon",
+          "four-stone directional dedication",
+          "co-magician-specific name/greeting",
+          "Sunday/Monday preference"
+        ],
+        "auralund_name": "Att samla rummet",
+        "auralund_id": "AR-0205"
+      },
+      {
+        "id": "ritual.ending",
+        "kind": "reusable-ritual-block",
+        "source": "DC-P052-P054",
+        "pages": [
+          54
+        ],
+        "printed_bounds": {
+          "starts": "Ending of ritual follows",
+          "ends": "before Dragons of the Elements section"
+        },
+        "steps": [
+          "pour water into a potted plant or onto the ground",
+          "put remaining ritual items away"
+        ],
+        "not_included": [
+          "speech thanking the newly attracted co-magician dragon",
+          "new gem placement",
+          "new invocation"
+        ],
+        "auralund_name": "Att lämna platsen hel",
+        "auralund_id": "AR-0206"
+      }
+    ],
+    "scenes": [
+      {
+        "id": "scene.first-ring-gate",
+        "source": "DC-P007-P008-FIRST-RING",
+        "pages": [
+          7,
+          8
+        ],
+        "realm": "First Ring (named); exact Otherworld level not stated",
+        "facts": [
+          "velvety darkness gives way to sunlight and huge wooden door with iron scrollwork/hinges",
+          "pull heavy chain attached to deep-sounding bell; door opens slowly",
+          "brightly coloured Gate dragon just inside doorway; door shuts behind visitor",
+          "circular First Ring is sensed but seen room is spacious, narrow, with slightly curved walls and skylights; ceiling unseen",
+          "endless tables, shelves of scrolls/books, wall diagrams/maps, open cabinets of herb jars and tall oil bottles",
+          "registry table beside closed door: quill in ink bottle and open book; student signs if certain",
+          "tiny silver dragon figure fastened to clothing; one question permitted",
+          "brilliant light cone rises endlessly from stone floor; guardian points visitor toward it"
+        ],
+        "unknown": [
+          "Gate dragon identity and exact colours",
+          "room floor plan and dimensions",
+          "map contents",
+          "specific Otherworld level"
+        ],
+        "never_merge_with": [
+          "Teacher's Gate",
+          "any other named gate"
+        ],
+        "auralund_name": "Mötet vid Lyssnardörren",
+        "auralund_id": "AR-0239"
+      },
+      {
+        "id": "scene.welcoming-dragons",
+        "source": "DC-P058",
+        "pages": [
+          58,
+          59,
+          60
+        ],
+        "realm": "not specified",
+        "facts": [
+          "stone courtyard of mighty castle without walls, dragons of differing sizes, apprentices from Earth and other worlds",
+          "blue ribbons on human Apprentices; guardian dragon nudges student, holds hand and supports introductions",
+          "older co-magicians lower heads to meet apprentice gaze; varied eye colours/shapes and eyelashes",
+          "telepathic communication and dragon humming; the Music of the Multiverse including fleeting discordant note",
+          "tables with juice and cakes; apprentices and dragons exchange greeting",
+          "long line of co-magicians with their apprentices in front; bright doorways appear and student enters one"
+        ],
+        "unknown": [
+          "courtyard floor plan",
+          "Otherworld level",
+          "exact dragon appearances/colours",
+          "bright doorway destination"
+        ],
+        "auralund_name": "Röster över den öppna gården",
+        "auralund_id": "AR-0240"
+      },
+      {
+        "id": "scene.dragon-ride",
+        "source": "DC-P061",
+        "pages": [
+          61,
+          62
+        ],
+        "realm": "imagined journey over geographic Earth; no mapped Otherworld level specified",
+        "facts": [
+          "rosy dawn; stone-paved courtyard of ancient castle, stone steps set into its outer wall",
+          "green-and-gold co-magician dragon, wings slightly spread, kneels; rider holds harness strap on shoulders between wings",
+          "invisible warm-air bubble; takeoff from castle wall using thermal currents",
+          "fields, tree-lined dirt road, canal with shrubs and river; bank left and travel southeast",
+          "Pacific Northwest toward Arizona/New Mexico, red rock, desert plateau, ancient cliff dwellings, Grand Canyon",
+          "Mississippi journey Gulf to Great Lakes and Earth's supposed energy-line vision, attributed to Conway",
+          "Great Wall of China approached while invisibility from human sight is narrated; further destinations user-chosen",
+          "return to castle; dragon asks what tools give spell power; lighted door appears in wall"
+        ],
+        "outside_meditation": "p.63 answer: power comes from within; tools have no power in themselves",
+        "unknown": [
+          "exact geocoded route",
+          "flight altitude",
+          "harness design",
+          "Atlantic crossing event (requested, not narrated)"
+        ],
+        "never_merge_with": [
+          "scene.welcoming-dragons"
+        ],
+        "auralund_name": "Färden från Vindborgen",
+        "auralund_id": "AR-0241"
+      },
+      {
+        "id": "scene.energy-balance",
+        "source": "DC-P064",
+        "pages": [
+          64,
+          65
+        ],
+        "realm": "unspecified visualization setting",
+        "facts": [
+          "wide very long board balanced on top of golden pyramid fulcrum in otherwise dark place",
+          "brilliant white at one end, bright gray near centre, full darkness at opposite end",
+          "co-magician motions student above support and telepathically explains calm centre of Multiversal energy",
+          "movement and thoughts imagined to influence board; both extremes seem less powerful than centre",
+          "dragon reassures student and holds them astrally; slight slide toward dark side first, note sensations",
+          "return to centre and rest; then slight slide toward bright side, note sensations",
+          "return to centre, step down, reflect; dragon offers individualized interpretation"
+        ],
+        "unknown": [
+          "board material/dimensions",
+          "orientation",
+          "dragon appearance",
+          "scientific energy readings"
+        ],
+        "auralund_name": "Mittpunktens prövning",
+        "auralund_id": "AR-0242"
+      },
+      {
+        "id": "scene.co-magician-encounter",
+        "source": "DC-P052-P054",
+        "pages": [
+          52,
+          53,
+          54
+        ],
+        "realm": "not named",
+        "facts": [
+          "after marked ritual beginning drape blue Apprentice ribbon across shoulders, seated/kneeling facing north",
+          "quartz point at cloth centre pointing north; amethyst north, amber east, aventurine south, moss agate west",
+          "concentrate on qualities sought in a new co-magician rather than imagined appearance",
+          "personal guardian present; newly encountered co-magician has specific colour, may withhold name initially",
+          "co-magician-specific thanks to dragons, guardian and new companion; release excess power to Earth before marked ending"
+        ],
+        "unknown": [
+          "new co-magician exact colour/name before encounter",
+          "physical appearance"
+        ],
+        "not_shared": [
+          "stone layout and blue ribbon",
+          "co-magician-specific gratitude"
+        ],
+        "auralund_name": "Frändemötet",
+        "auralund_id": "AR-0243"
+      },
+      {
+        "id": "scene.enchanter-oath",
+        "source": "DC-P065",
+        "pages": [
+          65,
+          66
+        ],
+        "realm": "great visualized cave; no named Otherworld level",
+        "facts": [
+          "physical preparation: altar cloth, bowls of sea salt/water, altar stones, jewelry or belt buckle; Full Moon preferable",
+          "close eyes, relax, visualize solid walls of great cave and large flight of humming dragons",
+          "feel warmth and hear folded wings; candidate asks passage from Apprentice to Enchanter Ring",
+          "Aldram, ancient Keeper of the Book, received student's earlier Apprentice oath",
+          "both hands palms up; Aldram lays hands over them, light touch; asks Enchanter oath",
+          "rhymed oath pledges study, help not harm; verse imagery not materials list",
+          "jewelry/buckle selected: power hand (most-used), close fist, lift overhead; short spoken declaration",
+          "touch object to forehead centre and then heart; pledge confidentiality about Enchanter arts",
+          "sit quietly a few minutes before referenced ending"
+        ],
+        "unknown": [
+          "cave geometry and light",
+          "dragon number/appearance",
+          "full oath transcription not included here",
+          "actual outcome of advancement"
+        ],
+        "distinction": "physical altar preparations and visualized cave are different representational layers; no automatic admission event",
+        "auralund_name": "Löftet i den stora grottan",
+        "auralund_id": "AR-0244"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "experience.first-ring-introduction",
+        "kind": "guided-meditation",
+        "source": "DC-P007-P008-FIRST-RING",
+        "sequence": [
+          {
+            "module": "meditation.beginning"
+          },
+          {
+            "scene": "scene.first-ring-gate"
+          },
+          {
+            "module": "meditation.ending"
+          }
+        ],
+        "note": "This scene is specific to pp7-8; do not treat the Gate scene as a universal meditation beginning.",
+        "auralund_name": "Den första tröskeln",
+        "auralund_id": "AR-0207"
+      },
+      {
+        "id": "experience.co-magician-ritual",
+        "kind": "ritual",
+        "source": "DC-P052-P054",
+        "sequence": [
+          {
+            "source_action": "Prepare p52 ritual-specific materials, seven-point star, specified gems; Sunday/Monday preferred; keep physically distinct"
+          },
+          {
+            "module": "ritual.beginning"
+          },
+          {
+            "scene": "scene.co-magician-encounter"
+          },
+          {
+            "module": "ritual.ending"
+          }
+        ],
+        "note": "Distinct rite for attracting co-magician; not the Enchanter oath.",
+        "auralund_name": "Att finna en vandringsfrände",
+        "auralund_id": "AR-0208"
+      },
+      {
+        "id": "experience.welcoming-other-dragons",
+        "kind": "guided-meditation",
+        "source": "DC-P058",
+        "sequence": [
+          {
+            "module": "meditation.beginning"
+          },
+          {
+            "scene": "scene.welcoming-dragons"
+          },
+          {
+            "module": "meditation.ending"
+          }
+        ],
+        "note": "Source p58 and p60 directly cite p7 and p8.",
+        "auralund_name": "När rösterna möts",
+        "auralund_id": "AR-0209"
+      },
+      {
+        "id": "experience.basic-personal-protection",
+        "kind": "study-text",
+        "source": "DC-P060",
+        "sequence": [
+          {
+            "study_section": "Conway's white-light-globe visualization, blue-armour visualization and charm options; Look Elsewhere; practical avoidance priority"
+          }
+        ],
+        "note": "No named Otherworld scene or required shared opening. Magic efficacy not scientifically demonstrated; do not present candle-heat contact as safety guidance.",
+        "auralund_name": "Att bära sin gräns",
+        "auralund_id": "AR-0210"
+      },
+      {
+        "id": "experience.dragon-ride",
+        "kind": "guided-meditation",
+        "source": "DC-P061",
+        "sequence": [
+          {
+            "module": "meditation.beginning"
+          },
+          {
+            "scene": "scene.dragon-ride"
+          },
+          {
+            "module": "meditation.ending"
+          },
+          {
+            "study_section": "p63 question answer outside meditation; no gameplay outcome assumed"
+          }
+        ],
+        "note": "Do not infer castle identity with wall-less courtyard of Welcoming Other Dragons.",
+        "auralund_name": "Med vinden som väg",
+        "auralund_id": "AR-0211"
+      },
+      {
+        "id": "experience.dragon-alchemy",
+        "kind": "study-text",
+        "source": "DC-P063",
+        "sequence": [
+          {
+            "study_section": "Conway's essay on physical, magickal, spiritual alchemy, symbolism and teacher traditions; claims attributed to author"
+          }
+        ],
+        "note": "No invented alchemy laboratory, scene, Philosopher's Stone appearance or ritual.",
+        "auralund_name": "Den långsamma förädlingen",
+        "auralund_id": "AR-0212"
+      },
+      {
+        "id": "experience.testing-energy-balance",
+        "kind": "self-contained-visualization",
+        "source": "DC-P064",
+        "sequence": [
+          {
+            "scene": "scene.energy-balance"
+          }
+        ],
+        "note": "The source does not cross-reference p7/8, so no automatic shared opening or ending. Symbolic visualization, not energy measurement.",
+        "auralund_name": "Mellan två ljus",
+        "auralund_id": "AR-0213"
+      },
+      {
+        "id": "experience.apprentice-to-enchanter",
+        "kind": "ritual",
+        "source": "DC-P065",
+        "sequence": [
+          {
+            "source_action": "Prepare p65 materials; Full Moon preferable"
+          },
+          {
+            "module": "ritual.beginning"
+          },
+          {
+            "scene": "scene.enchanter-oath"
+          },
+          {
+            "module": "ritual.ending"
+          }
+        ],
+        "note": "Source references p52 and p54, not the entire co-magician rite. Entry REQUESTED; no invented acceptance or progression confirmation.",
+        "auralund_name": "Löftet vid den andra årsringen",
+        "auralund_id": "AR-0214"
+      }
+    ],
+    "no_unsupported_connections": [
+      "Do not identify First Ring Gate dragon with Aldram or Alberon.",
+      "Do not equate walled Dragon Ride castle with wall-less Welcoming Dragons courtyard.",
+      "Do not insert the First Ring introductory gate/registry into all meditations.",
+      "Do not insert co-magician ribbon/gems/Sunday-Monday timing into Enchanter ritual.",
+      "Do not insert meditation p7/p8 into self-contained Energy Balance without an explicit reference.",
+      "Do not turn historical Dragon Alchemy essay into a specific drawn laboratory.",
+      "Do not infer that reciting Enchanter oath automatically grants confirmed promotion."
+    ],
+    "source_integration_approval": "USER-APPROVED 2026-10-24, see docs/004-integration-approval-2026-10-24.md; older proposed wording in source snapshot is historical.",
+    "creative_display_status": "Created under William's 2026-10-25 free creative mandate; no separate per-detail review claimed."
+  },
+  "world_topology": {
+    "levels": [
+      "Highest",
+      "Upperworld",
+      "Middleworld",
+      "Lowerworld",
+      "Underworld"
+    ],
+    "map_links": [
+      {
+        "a": "Highest",
+        "b": "Upperworld"
+      },
+      {
+        "a": "Upperworld",
+        "b": "Middleworld"
+      },
+      {
+        "a": "Middleworld",
+        "b": "Lowerworld"
+      },
+      {
+        "a": "Lowerworld",
+        "b": "Underworld"
+      },
+      {
+        "a": "Upperworld",
+        "b": "To the Void"
+      },
+      {
+        "a": "Upperworld",
+        "b": "Time-Flight Astra-Keepers"
+      },
+      {
+        "a": "Upperworld",
+        "b": "Seers, Web Weavers, etc."
+      },
+      {
+        "a": "Middleworld",
+        "b": "Seers, Web Weavers, etc."
+      },
+      {
+        "a": "Middleworld",
+        "b": "Akasha"
+      },
+      {
+        "a": "Middleworld",
+        "b": "Dragon World",
+        "multiplicity": "multiple source lines; count not fixed here"
+      },
+      {
+        "a": "Middleworld",
+        "b": "Faery Land",
+        "multiplicity": "multiple source lines; count not fixed here"
+      },
+      {
+        "a": "Middleworld",
+        "b": "Center of the Five Rings / Four Hidden Dragons"
+      }
+    ],
+    "not_navigation": true,
+    "geometry_note": "Schematic connectivity only; Akasha crossing Upperworld-Seers is not a junction; no distances or compass positions.",
+    "source": "atlas/DC-WORLD-001-Otherworld-Cosmology.md"
+  },
+  "invariants": {
+    "cave_relations": [
+      {
+        "id": "REL-001",
+        "from": "DC-BEING-X-KAUDRA",
+        "to": "DC-KAUDRA-WEB-WEAVERS",
+        "type": "is_member_of",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Kaudra belongs to the Web Weavers; NOT their established leader."
+      },
+      {
+        "id": "REL-002",
+        "from": "DC-BEING-X-KAUDRA",
+        "to": "DC-KAUDRA-CAVE-HUGE",
+        "type": "has_special_cave",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Page43 describes Kaudra's huge cave; physical access mechanism unknown."
+      },
+      {
+        "id": "REL-003",
+        "from": "DC-KAUDRA-CAVE-HUGE",
+        "to": "DC-PLACE-AD-DREAM-CHAMBER",
+        "type": "contains",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Huge cave contains transparent bubble-like Dream Chamber."
+      },
+      {
+        "id": "REL-004",
+        "from": "DC-COUNCIL-L-DHUAAR",
+        "to": "DC-PLACE-AD-DREAM-CHAMBER",
+        "type": "meets_inside",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Council convenes within the transparent crystal; no furniture or Council number established."
+      },
+      {
+        "id": "REL-005",
+        "from": "DC-KAUDRA-CAVE-HUGE",
+        "to": "DC-KAUDRA-SIDE-CHAMBERS",
+        "type": "has_side_chambers",
+        "certainty": "explicit",
+        "source": "SRC-P043",
+        "explanation": "Plural side chambers; number and doorway layout unknown."
+      },
+      {
+        "id": "REL-006",
+        "from": "DC-KAUDRA-CAVE-HUGE",
+        "to": "DC-KAUDRA-CLEANSING-CHAMBER",
+        "type": "contains_distinct_empty_chamber",
+        "certainty": "context",
+        "source": "SRC-P043",
+        "explanation": "Empty chamber appears in description of Kaudra's cave; separate from Dream Chamber; exact relation to other side chambers unspecified."
+      },
+      {
+        "id": "REL-007",
+        "from": "DC-BEING-X-KAUDRA",
+        "to": "DC-KAUDRA-CLEANSING-CHAMBER",
+        "type": "may_send_ready_student_to",
+        "certainty": "explicit_conditional",
+        "source": "SRC-P043",
+        "explanation": "Only after Kaudra judges candidate ready and worthy; no automatic game access."
+      },
+      {
+        "id": "REL-008",
+        "from": "DC-BEING-X-KAUDRA",
+        "to": "DC-KAUDRA-UPPERWORLD-CRYSTAL-CAVE",
+        "type": "protects",
+        "certainty": "explicit",
+        "source": "SRC-P042",
+        "explanation": "Cave protected, not proof she guards the Gate to Highest."
+      },
+      {
+        "id": "REL-009",
+        "from": "DC-KAUDRA-UPPERWORLD-CRYSTAL-CAVE",
+        "to": "DC-KAUDRA-GATE-HIGHEST",
+        "type": "near",
+        "certainty": "explicit",
+        "source": "SRC-P042",
+        "explanation": "Only near; no passage or precise distance."
+      },
+      {
+        "id": "REL-010",
+        "from": "DC-KAUDRA-DREAM-GATE",
+        "to": "DC-BEING-X-KAUDRA",
+        "type": "returns_traveller_to_upperworld_near",
+        "certainty": "explicit",
+        "source": "SRC-P045",
+        "explanation": "Near Kaudra, not proven to enter her cave."
+      },
+      {
+        "id": "REL-011",
+        "from": "DC-KAUDRA-WEB-GATE",
+        "to": "DC-KAUDRA-WEB-WEAVERS",
+        "type": "leads_to_groups_side_area",
+        "certainty": "explicit",
+        "source": "SRC-P042",
+        "explanation": "Web Weaver side area; no cave doorway directly established."
+      }
+    ],
+    "cave_non_relations": [
+      {
+        "id": "UNRESOLVED-001",
+        "a": "DC-KAUDRA-UPPERWORLD-CRYSTAL-CAVE",
+        "b": "DC-KAUDRA-CAVE-HUGE",
+        "question": "Are the p42 Upperworld crystal cave near the Highest gate and p43 enormous Dream Chamber cave the same site?",
+        "status": "unresolved",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-002",
+        "a": "DC-KAUDRA-GARDEN-WISDOM",
+        "b": "DC-KAUDRA-CAVE-HUGE",
+        "question": "Is the Garden within or outside the cave? Is there a source-stated entrance/passage?",
+        "status": "unresolved",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-003",
+        "a": "DC-KAUDRA-SHRINE-REMEMBRANCE",
+        "b": "DC-KAUDRA-GARDEN-WISDOM",
+        "question": "Is Shrine of Remembrance a shrine in the Garden, a cave side chamber, or elsewhere?",
+        "status": "unresolved",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-004",
+        "a": "DC-KAUDRA-DREAM-GATE",
+        "b": "DC-KAUDRA-CAVE-HUGE",
+        "question": "Is there any directly described passage from the Dream Gate to Kaudra's cave?",
+        "status": "not_attested",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-005",
+        "a": "DC-KAUDRA-WEB-GATE",
+        "b": "DC-KAUDRA-CAVE-HUGE",
+        "question": "Is there a direct walkable corridor from the Web Gate to the huge cave?",
+        "status": "not_attested",
+        "not_a_corridor": true
+      },
+      {
+        "id": "UNRESOLVED-006",
+        "a": "DC-KAUDRA-SIDE-CHAMBERS",
+        "b": "DC-KAUDRA-CLEANSING-CHAMBER",
+        "question": "Is the cleansing chamber one of the unnamed side chambers or a separate passage?",
+        "status": "unresolved",
+        "not_a_corridor": true
+      }
+    ],
+    "experience_sequences": {
+      "experience.first-ring-introduction": [
+        {
+          "module": "meditation.beginning"
+        },
+        {
+          "scene": "scene.first-ring-gate"
+        },
+        {
+          "module": "meditation.ending"
+        }
+      ],
+      "experience.co-magician-ritual": [
+        {
+          "source_action": "Prepare p52 ritual-specific materials, seven-point star, specified gems; Sunday/Monday preferred; keep physically distinct"
+        },
+        {
+          "module": "ritual.beginning"
+        },
+        {
+          "scene": "scene.co-magician-encounter"
+        },
+        {
+          "module": "ritual.ending"
+        }
+      ],
+      "experience.welcoming-other-dragons": [
+        {
+          "module": "meditation.beginning"
+        },
+        {
+          "scene": "scene.welcoming-dragons"
+        },
+        {
+          "module": "meditation.ending"
+        }
+      ],
+      "experience.basic-personal-protection": [
+        {
+          "study_section": "Conway's white-light-globe visualization, blue-armour visualization and charm options; Look Elsewhere; practical avoidance priority"
+        }
+      ],
+      "experience.dragon-ride": [
+        {
+          "module": "meditation.beginning"
+        },
+        {
+          "scene": "scene.dragon-ride"
+        },
+        {
+          "module": "meditation.ending"
+        },
+        {
+          "study_section": "p63 question answer outside meditation; no gameplay outcome assumed"
+        }
+      ],
+      "experience.dragon-alchemy": [
+        {
+          "study_section": "Conway's essay on physical, magickal, spiritual alchemy, symbolism and teacher traditions; claims attributed to author"
+        }
+      ],
+      "experience.testing-energy-balance": [
+        {
+          "scene": "scene.energy-balance"
+        }
+      ],
+      "experience.apprentice-to-enchanter": [
+        {
+          "source_action": "Prepare p65 materials; Full Moon preferable"
+        },
+        {
+          "module": "ritual.beginning"
+        },
+        {
+          "scene": "scene.enchanter-oath"
+        },
+        {
+          "module": "ritual.ending"
+        }
+      ]
+    },
+    "not_merged": [
+      [
+        "AR-0116",
+        "AR-0120"
+      ],
+      [
+        "AR-0095",
+        "AR-0117"
+      ],
+      [
+        "AR-0127",
+        "AR-0128"
+      ],
+      [
+        "AR-0090",
+        "AR-0013"
+      ],
+      [
+        "AR-0031",
+        "AR-0032"
+      ],
+      [
+        "AR-0070",
+        "AR-0071"
+      ],
+      [
+        "AR-0240",
+        "AR-0221"
+      ]
+    ],
+    "restricted_gates": [
+      "Nollporten: endast Oföddhetens drakar",
+      "Vandrande horisonten: Gränshållare, Stillbärare och drakar",
+      "De fyra slutna fröna: initierade Stillbärare samt väktarvillkor",
+      "Urtröskeln: ingen ny mänsklig tillträdesrätt"
+    ]
+  }
+}

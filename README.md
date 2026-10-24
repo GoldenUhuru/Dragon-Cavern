@@ -1,43 +1,42 @@
-# Dragon-Cavern
+# Auralund / Dragon Cavern
 
-*A Cavern Going Through The Roof*
+*Där roten minns stjärnan och världen finner sin ton.*
 
-Dragon Cavern växer ur den källkritiska studien av D. J. Conways *Mystical Dragon Magick*. Här skiljer vi på verifierad text, tolkningar och egna spelidéer.
+Auralund är den nya kreativa gestaltningen av William / Golden Uhurus Dragon Cavern. Den 25 oktober 2026 gav William Aetherion ett fritt mandat att byta namn, färger och uttryck på allt registrerat och behålla världens skelett.
 
-## Börja här
+## Börja i Auralund
 
-- [Uppdrag 001: Kaudras grotta – kartbrief och plan](docs/001-kaudras-grotta.md)
-- [Logg: mätning av ChatGPT Work-kvot](docs/work-kvot-logg.md)
+- [Vävarboken: interaktiv läs- och namnupplevelse](game/auralund-codex.html)
+- [Världsboken: ursprungsmyt, drakar, platser och åtta upplevelser](docs/auralund/01-varldsboken.md)
+- [Namnväven: 253 tidigare och nya benämningar](docs/auralund/02-namnvaven.md)
+- [Källor och motiv](docs/auralund/03-kallor-och-motiv.md)
+- [Genomförande och kontroll](docs/auralund/04-genomforande-och-kontroll.md)
+- [Bildbriefar för de två originalillustrationerna](docs/auralund/05-bildbriefar.md)
 
-**Projektstatus:** Dokumentation och uppdragsplan finns. Spelprototypen är ännu inte byggd i detta repository.
+Den nya ingången använder Auralunds namn. De gamla namnen finns som sökbara alias. Världarnas ordning, grottans tretton noder, elva relationer och sex öppna parfrågor samt de åtta upplevelsernas sekvenser följer med. Inga portbehörigheter ändras genom gestaltningen.
 
+HTML-filen fungerar lokalt tillsammans med game/assets. En separat paketerad läsversion och en illustrerad PDF-bok skapas som leveransartefakter. Detta är ett fungerande uppslagsverk och en sammanhängande världsgestaltning, inte ett geografiskt färdigbyggt spel eller en redan driftsatt webbplats.
 
-## Godkända källor och koppling till spelvärlden
+## Data och kontroll
 
-- [DC-RESEARCH-002 – sex godkända studier, s. 58–66](atlas/DC-RESEARCH-002-Verified-P058-P066.md)
-- [DC-RESEARCH-003 – godkännande av meditationens början/slut och Första ringens port, s. 7–8](atlas/DC-RESEARCH-003-Approvals-2026-10-24.md)
-- [Godkänd ritualinledning och avslutning, s. 52–54](atlas/DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md)
-- [Uppdrag 004 – källtroget upplägg för spelupplevelser](docs/004-approved-source-experience-integration.md)
-- [Maskinläsbar erfarenhetskarta (JSON)](game/data/atlas-experience-graph.v1.json)
-- [Kontroll av källkopplingar och sekvens](game/tools/validate-atlas-experience-graph.mjs)
+- [Namnregister med permanenta källankare och nya redaktionella nycklar](game/data/auralund-registry.v1.json)
+- [Bevarade relationer, upplevelser och schematisk världstopologi](game/data/auralund-world.v1.json)
+- [Namnnyckel i CSV](game/data/auralund-name-crosswalk.v1.csv)
+- [Kontroll av namn, ankare och oförändrat skelett](game/tools/validate-auralund.mjs)
 
-### Implementationsstatus
+Kör node game/tools/validate-auralund.mjs och node game/tools/validate-atlas-experience-graph.mjs från projektroten.
 
-Källgranskning och samband är dokumenterade, men **ingen spelbar prototyp finns ännu i detta repository**. JSON-grafen är ett implementeringsunderlag, **inte** en körbar spelvärld. Källfakta i de länkade atlasposterna är godkända; den nya grafens upplägg och framtida speldesign ska granskas separat innan de blir spelkanon. Aetherion är vår egen bokdrake och ska inte förväxlas med Conways namngivna drakar.
+## Källarkivet
 
+Studiearkivet återger D. J. Conways *Mystical Dragon Magick* med källor, rättelser och godkännanden. Dess originalnamn och historiska förstaförsökspoäng är orörda. Nya AR-KEY-nycklar är redaktionella nycklar från Auralund, inte påstådda äldre Atlas-ID.
 
+- [Otherworld: nivåer och kartgrenar](atlas/DC-WORLD-001-Otherworld-Cosmology.md)
+- [Tidigare portregister](atlas/DC-GATES-001-Master-Gate-Registry.md)
+- [Uppdrag 001: källkritisk kartbrief för Kaudras grotta](docs/001-kaudras-grotta-kartbrief-2026-10-24.md)
+- [Källgraf: Kaudras grotta](game/data/kaudra-cave-evidence-graph.v1.json)
+- [Källgraf: åtta upplevelser](game/data/atlas-experience-graph.v1.json)
+- [Godkänd integrationsarkitektur, 24 oktober](docs/004-integration-approval-2026-10-24.md)
+- [Riktad sidkontroll inför Auralund, tryckt sida 44](research/auralund-p044-targeted-check-2026-10-25.md)
+- [Aetherion: bokdrakens ursprungsdokumentation](research/aetherion-book-dragon.md)
 
-## Kaudra's Cave — första källkritiska kartmilstolpen
-
-- [Uppdrag 001: kartbrief för Kaudras grotta](docs/001-kaudras-grotta-kartbrief-2026-10-24.md)
-- [Datagraf: 13 Atlas-entiteter / 11 bekräftade relationer / 6 olösta](game/data/kaudra-cave-evidence-graph.v1.json)
-- [Interaktiv, fristående källutforskare (HTML)](game/kaudra-source-explorer.html)
-
-**Status:** Atlasfakta har tidigare godkänts för sina enskilda poster. Den nu sammanställda kartbriefen och visualiseringsstrukturen inväntar Williams granskning. HTML-filen är en interaktiv **källkarta**, inte en fysiskt källbelagd grottplan och inte ett färdigbyggt spel. Trädgårdens förbindelse med grottan och frågan om de två omnämnda kristallgrottorna är samma plats förblir uttryckligen olösta.
-
-## Kaudra’s första visuella prototyp (v0.1)
-
-- [Öppna källbunden visuell prototyp (HTML/SVG)](game/kaudra-first-visual-prototype.html)
-- [Läs visuella designens gränser och testprotokoll](docs/001-kaudras-grotta-visual-prototype-v01.md)
-
-**Status:** Interaktiv källtroget kommenterad **konceptprototyp** finns nu. Den erbjuder åtta studievyer och växling mellan konstnärlig tolkning och källminimum. Utseende och visuella spelmekaniker inväntar Williams särskilda godkännande. Detta är inte ännu en geografiskt navigerbar grotta eller ett färdigbyggt spel.
+De äldre prototyperna finns kvar som källvyer: [källutforskaren](game/kaudra-source-explorer.html) och [den första visuella prototypen](game/kaudra-first-visual-prototype.html). Nya namn, färger, repliker, illustrationer och ursprungsmyt är den skapade editionens egna val. Ett tidigare godkännande av en källpost är inte ett påstående om separat godkännande av varje ny konstnärlig detalj.
