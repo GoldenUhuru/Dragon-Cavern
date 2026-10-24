@@ -4,7 +4,7 @@
 **Document ID:** `DC-MAP-001-KAUDRA-CAVE`  
 **Date:** 24 October 2026  
 **Scope:** Kaudra, her special cave, Dream Chamber, Dhuaar, side chambers, cleansing chamber and associated *but not necessarily connected* sites.  
-**Atlas status:** **LOCATED and SOURCE-SYNTHESIZED**, existing individual facts user-approved (Tests X, AD, L, N, related gate tests); **this newly assembled map brief and any artwork/gameplay await William's review**.  
+**Atlas status:** **LOCATED and SOURCE-SYNTHESIZED**, existing individual facts user-approved (Tests X, AD, L, N, related gate tests); **the assembled source-relationship map brief was USER-APPROVED by William on 2026-10-24; new artwork and gameplay still await separate review**.  
 **Game status:** The existing repository had no playable game prototype at this checkpoint. This document is a source-relationship map, not a floor plan.
 **Machine-readable evidence map:** [`game/data/kaudra-cave-evidence-graph.v1.json`](../game/data/kaudra-cave-evidence-graph.v1.json).
 
@@ -160,6 +160,11 @@ No open question is an invitation to invent an “obvious” route. Unknown is a
 - **2026-10-22 to 2026-10-23:** Original source items independently approved (Kaudra, Dream Chamber, Dhuaar, Web Weavers and related gates); earlier test scores not retroactively altered.
 - **2026-10-23:** Archive notes pp.42–43 photographs previously examined; they are **not currently present as independently inspectable archival source images**. Avoid falsely claiming that today's research rechecked printed p.43.
 - **2026-10-24:** Reused existing Atlas and original study record, targeted direct check p.45 Dream Gate, built explicit semantic graph with uncertainties, did **not** reprocess the full 42–66 video.
-- **CURRENT: This combined Mission 001 map brief is awaiting William's approval.** Previously approved individual facts remain approved. This is not approval of future images, game controls, rendered 3D topography or physical/metaphysical claims.
+- **CURRENT: The compiled Mission 001 source-relationship map was USER-APPROVED by William on 2026-10-24, replying “Perfect my friend” to the approval checkpoint.** Previously approved individual facts remain approved. This is not approval of future images, game controls, rendered 3D topography or physical/metaphysical claims.
 
 **Review question:** Approve the **source boundaries and semantic links** so that we can move from an evidence map to a deliberately designed and reviewable first cave environment, keeping invented mechanics and structures clearly marked.
+
+
+## 2026-10-24 — Approval checkpoint closed
+
+William accepted this source-critical map with “Perfect my friend,” following the presentation of 13 entities, 11 semantic relations and 6 unresolved/non-attested links. This approval establishes a **reviewed relationship map**, not a validated physical floor plan. It does **not** approve invented corridors, Garden placement, merging the p.42 and p.43 caves, exact animal anatomy, Council appearance, new mechanics, or rendered art. The next phase is a separately reviewed visual/game-design proposal. Prior original page-specific approval limits remain unchanged.
