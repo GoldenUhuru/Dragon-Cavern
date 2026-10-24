@@ -1,6 +1,6 @@
 # DC-P060 — Basic Personal Protection
 
-**Source:** D. J. Conway, *Mystical Dragon Magick*, pp.60–61. **Evidence:** Directly readable frames in uploaded p42–66 video, approx. 00:30–00:31. **Status: VERIFIED source reading, user approval PENDING.**
+**Source:** D. J. Conway, *Mystical Dragon Magick*, pp.60–61. **Evidence:** Directly readable frames in uploaded p42–66 video, approx. 00:30–00:31. **Status: VERIFIED source reading, USER-APPROVED 2026-10-24.**
 
 **p60:** Conway claims few people encounter authentic magical attack, and attributes many perceived troubles to envy and ill-wishing. She recommends (1) visualization of a globe of **brilliant white light**; (2) if remaining near a perceived aggressor, visualization of **shining blue armor**; (3) wearing a meaningful **consecrated good-luck charm** (examples include a crystal alone or held by a dragon figure). The charm consecration described involves frankincense smoke, heat above candle flame, water and contact with earth as four elements. She also advises practical avoidance of predictable conflict and staying observant.
 
@@ -12,7 +12,7 @@
 
 ## Page-by-page approval review — 2026-10-24
 
-**Primary images rechecked:** `dc_research_002_frames/t30.jpg` = printed p.60, `dc_research_002_frames/t31.jpg` = printed p.61, both extracted from supplied chapter video. **Verified source details; USER APPROVAL STILL PENDING.**
+**Primary images rechecked:** `dc_research_002_frames/t30.jpg` = printed p.60, `dc_research_002_frames/t31.jpg` = printed p.61, both extracted from supplied chapter video. **Verified source details; USER-APPROVED 2026-10-24.**
 
 ### P.60 — author claims and three techniques
 - Conway differentiates what she calls rare authentic magical attacks from more common ill-wishing, jealousy and envy (especially by non-magicians), claiming an accumulation of negative vibrations in the house or aura can manifest as clumsiness, small accidents, errors, misunderstandings, and time/money loss. **These are attributed claims, not evidence-backed physics or psychology.**
@@ -34,4 +34,4 @@
 - Statements about attacks, vibration, aura and protection remain Conway's spiritual model, **not independently verified efficacy**.
 
 ### Approval tracking
-This review has not yet been approved by William. Change approval state only after explicit approval; preserve uncertainty and scientific-status notes.
+**Approved by William, 2026-10-24:** “Approved. Well done.” Approval covers the page-specific source-derived descriptions and distinctions in this entry, not independently verified magical efficacy or unspecified imagery. Preserve uncertainty and scientific-status notes.
