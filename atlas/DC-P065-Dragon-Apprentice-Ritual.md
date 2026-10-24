@@ -54,8 +54,8 @@ Although the *heading* says “Dragon Apprentice Ritual,” the ceremony is abou
 
 ## Subsequent dependency verification (2026-10-24) — NOT a retroactive change to approved p.65–66 facts
 
-The previously cited **opening on p.52** and **ending on p.54** have now been directly examined and recorded in [DC-P052–P054 — Ritual for Attracting a Co-Magician Dragon](DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md), **pending William's approval of that new cross-reference study**.
+The previously cited **opening on p.52** and **ending on p.54** have now been directly examined and recorded in [DC-P052–P054 — Ritual for Attracting a Co-Magician Dragon](DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md), **USER-APPROVED 2026-10-24 as a separate cross-reference study**.
 
 **Critical boundary:** The opening and ending are explicitly labelled sub-blocks inside the separate co-magician ritual. The p.65 Apprentice-to-Enchanter rite points to those **marked beginning/ending blocks**, not necessarily the entirety of the co-magician rite in between. Therefore DO NOT silently add the p.52 co-magician ritual's **seven-pointed star, four named gem preparations or Sunday/Monday timing** to p.65, whose **own ingredients and Full Moon preference** are separately specified. The p.54 passage thanking a *new co-magician* precedes the actual labelled ending and must not be treated as generic Enchanter ritual text.
 
-This link clarifies dependencies without changing William's earlier **USER-APPROVED** status for the p.65–66 reading. New p.52–54 procedural details remain approval-pending.
+This link clarifies dependencies without changing William's earlier **USER-APPROVED** status for the p.65–66 reading. The p.52–54 source-derived procedural details were subsequently **user-approved on 2026-10-24**. This does not extend that approval to unverified pp.7–8 meditation instructions or new visual invention.
