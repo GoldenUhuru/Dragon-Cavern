@@ -11,7 +11,7 @@ The drawing uses lines **without arrowheads**: connectivity only, **not proven t
 ## Side branches visible on diagram (p. 39)
 - **To the Void** — connected to Upperworld.
 - **Time-Flight Astra-Keepers** — connected to Upperworld.
-- **Akasha** — **DISPUTED BY USER (2026-10-24)**. Earlier transcription says connected to Middleworld; do not present as verified pending inspection of original p. 39.
+- **Akasha** — connected by a drawn line to **Middleworld** in the earlier p. 39 study record. Its line **crosses** the Upperworld–Seers line; crossing does not establish a junction. Akasha is a distinct named branch, **not an isolated or unconnected place**. User clarified the earlier FEL mark concerned misleading wording, not denial of the Middleworld connection. Original visual geometry remains subject to targeted source check.
 - **Seers, Web Weavers, etc.** — connected to Upperworld and Middleworld.
 - **Dragon World** — connected to Middleworld with multiple lines.
 - **Faery Land** — connected to Middleworld with multiple lines.
@@ -36,3 +36,7 @@ William reviewed 14 items on 2026-10-24: **12 STÄMMER** (Upperworld; To the Voi
 ### QR-2026-10-24-002A — Akasha line crossing (user observation)
 
 William clarified: **the line from Akasha toward Middleworld crosses the line connecting Upperworld and Seers** on the p. 39 map. Preserve both line segments and their crossing when drawing the map. **Do not treat the crossing as a junction or transfer point without a visible node or explicit textual support.** The earlier simplified graphic omitted this crossing, explaining the user's FEL mark. Status: **user-reported geometry; original p. 39 reinspection pending**. This does not itself invalidate Akasha's Middleworld endpoint; the geometry and destination are distinct claims.
+
+### QR-2026-10-24-002B — clarification of Akasha review
+
+William clarified that the description sounded as though Akasha floated by itself. Correct interpretation: **a separately named branch with a drawn connection to Middleworld**, crossing the Upperworld–Seers line. The initial FEL flag was about the presentation's ambiguity, not evidence of a missing Middleworld connection. Wording corrected; crossing is not automatically a junction. This is **user clarification**, not a new independent inspection of the original printed map.
