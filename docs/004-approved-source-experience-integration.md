@@ -90,6 +90,8 @@ Each future interactive node should include `source_id`, `page`, `evidence_type`
 
 ## Prototype implementation order (future, NOT implemented in this commit)
 
+**Project sequencing constraint:** [Mission 001 — Kaudra's Cave](001-kaudras-grotta.md) remains the previously established first source-checked worldbuilding milestone. Its map brief and user review must not be silently displaced by this experience-composition graph. The steps below describe a *possible technical integration order after* that project milestone, not a replacement priority or an already-approved development schedule.
+
 1. **Atlas reader:** render each experience's source references and unknowns, including a visible S/I/G distinction.
 2. **Reusable block runner:** present four shared blocks in reading order; do not turn books' visualizations into claims of physical travel.
 3. **One separate first-entry scene:** gate with wood/iron, sound of bell, visible registry objects, Gate dragon unidentified beyond author's description. Preserve narrow room + slightly curved walls; ceiling unseen.
