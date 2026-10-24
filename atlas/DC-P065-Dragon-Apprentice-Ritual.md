@@ -51,3 +51,11 @@ Although the *heading* says “Dragon Apprentice Ritual,” the ceremony is abou
 ## Audit and correction log
 - Original index recorded ritual pp.65–66 and correctly established **transition to Enchanter** and **ends p.66**.
 - **2026-10-24 source review:** Verified original photographs; corrected ambiguous claim that **Aldram “took original apprenticeship oath”** to specify he **received the STUDENT'S oath**. Added placement of jewelry on altar cloth, Full Moon as preferable, sensory cave details, **two palms up**, light dragon-skin contact, content but not unsourced exact wording of the oath, “power hand” definition, **raised clenched fist**, separate spoken exclamation, forehead→heart order, confidentiality pledge, and p.52/p.54 dependencies. **USER-APPROVED on 2026-10-24.** William explicitly wrote: “Approved my friend.” Approval applies to the documented page-specific source reading, the Aldram correction, the stated visual boundaries, and the p.52/p.54 cross-references; it does not independently establish the metaphysical claims or authorize invented imagery.
+
+## Subsequent dependency verification (2026-10-24) — NOT a retroactive change to approved p.65–66 facts
+
+The previously cited **opening on p.52** and **ending on p.54** have now been directly examined and recorded in [DC-P052–P054 — Ritual for Attracting a Co-Magician Dragon](DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md), **pending William's approval of that new cross-reference study**.
+
+**Critical boundary:** The opening and ending are explicitly labelled sub-blocks inside the separate co-magician ritual. The p.65 Apprentice-to-Enchanter rite points to those **marked beginning/ending blocks**, not necessarily the entirety of the co-magician rite in between. Therefore DO NOT silently add the p.52 co-magician ritual's **seven-pointed star, four named gem preparations or Sunday/Monday timing** to p.65, whose **own ingredients and Full Moon preference** are separately specified. The p.54 passage thanking a *new co-magician* precedes the actual labelled ending and must not be treated as generic Enchanter ritual text.
+
+This link clarifies dependencies without changing William's earlier **USER-APPROVED** status for the p.65–66 reading. New p.52–54 procedural details remain approval-pending.
