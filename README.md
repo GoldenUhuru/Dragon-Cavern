@@ -34,3 +34,10 @@ Källgranskning och samband är dokumenterade, men **ingen spelbar prototyp finn
 - [Interaktiv, fristående källutforskare (HTML)](game/kaudra-source-explorer.html)
 
 **Status:** Atlasfakta har tidigare godkänts för sina enskilda poster. Den nu sammanställda kartbriefen och visualiseringsstrukturen inväntar Williams granskning. HTML-filen är en interaktiv **källkarta**, inte en fysiskt källbelagd grottplan och inte ett färdigbyggt spel. Trädgårdens förbindelse med grottan och frågan om de två omnämnda kristallgrottorna är samma plats förblir uttryckligen olösta.
+
+## Kaudra’s första visuella prototyp (v0.1)
+
+- [Öppna källbunden visuell prototyp (HTML/SVG)](game/kaudra-first-visual-prototype.html)
+- [Läs visuella designens gränser och testprotokoll](docs/001-kaudras-grotta-visual-prototype-v01.md)
+
+**Status:** Interaktiv källtroget kommenterad **konceptprototyp** finns nu. Den erbjuder åtta studievyer och växling mellan konstnärlig tolkning och källminimum. Utseende och visuella spelmekaniker inväntar Williams särskilda godkännande. Detta är inte ännu en geografiskt navigerbar grotta eller ett färdigbyggt spel.
