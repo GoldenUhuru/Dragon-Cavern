@@ -1,6 +1,6 @@
 # DC-WORLD-001 — Otherworld Cosmology and map of p. 39
 
-**Status:** Five main world descriptions **USER-APPROVED (2026-10-24)**; other map claims retain their separate evidence/review statuses. Prior visual study transcription reused; no fresh direct inspection of original p. 39 in this update.
+**Status:** Five main world descriptions and seven displayed side-branch descriptions/connections **USER-APPROVED (2026-10-24, Map II review)**; other claims retain their separate evidence/review statuses. Prior visual study transcription reused; no fresh direct inspection of original p. 39 in this update.
 **Sources:** D. J. Conway, *Mystical Dragon Magick*, pp. 37–42; prior archive *Williams_Dragon_Study_Record_2026-10-10.md* (especially section 'Page 39: Map of the Otherworld'); *Dragon_Cavern_Atlas_Index_2026-10-14.md*; subsequent user-approved entries. This is **reuse of prior documentation**, not a fresh independent viewing of pp. 37–41.
 
 ## Five main levels in p. 39 diagram
@@ -58,3 +58,9 @@ William marked all five world descriptions **STÄMMER** on 2026-10-24, after rev
 | Underworld | 39, 48–49 | USER-APPROVED |
 
 **Scope:** Approval covers the presented world identities, their order and the limited descriptive attributes shown in the test; it does not verify arbitrary gate routes, directions, distances, architecture or additional inferred facts. Cross-checked against this Atlas's existing p.39 world ordering and previously archived page-specific descriptions; **not a new visual examination of the original pages**. Earlier Akasha/Five Rings wording corrections remain recorded separately.
+
+## Quality review QR-2026-10-24-004 — Atlas Map II (12/12 STÄMMER)
+
+William explicitly marked all twelve Map II items **STÄMMER** on 2026-10-24: Highest (pp.39,41), Upperworld (pp.39–43), Middleworld (pp.39–45), Lowerworld (pp.39,47–49), Underworld (pp.39,48–49), To the Void (p.39), Time-Flight / Astra-Keepers (pp.39,42), Seers / Web Weavers etc. (p.39), Akasha (p.39), Dragon World (pp.39–40), Faery Land (pp.39–40), Center of Five Rings / Four Hidden Dragons (pp.39,45,55–57).
+
+**Approval scope:** Only the textual descriptions and displayed adjacency list in the Map II interactive review. Earlier archived p.39 visual study record supports these as a working topology; **the original printed p.39 was not freshly visually examined during this update**. The simplified Map II SVG is **not** an approved literal tracing: its coordinates, exact crossing geometry, route counts, directions and scale remain unverified. In particular, Akasha's line crosses Upperworld–Seers in the user's reported source geometry, whereas Map II's graphic did not accurately reproduce that crossing. The review of **To the Void** does **not** establish that its p.39 line is identical to the p.42 **Void Gate**. No inferred travel permissions are approved.
