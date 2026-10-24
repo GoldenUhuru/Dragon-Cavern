@@ -1,0 +1,508 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Dragon Cavern — approved-source experience connection graph",
+  "created_date": "2026-10-24",
+  "publication_status": "source-traceable integration blueprint, NOT playable code",
+  "integration_approval": "proposed, awaiting William's review; linked individual Atlas entries already user-approved",
+  "evidence_rules": {
+    "source_canon": "Only cited elements in approved Atlas source entries are Conway-attributed details.",
+    "composition": "Whether a scene becomes a navigable or interactive game experience is a Dragon Cavern implementation decision, not a Conway quotation.",
+    "visual": "Missing geometry, costume, colour, sound design and mechanics stay unspecified until separately approved.",
+    "approval_index": "atlas/DC-RESEARCH-003-Approvals-2026-10-24.md",
+    "metaphysical": "Do not label esoteric or historical claims as externally verified science or history."
+  },
+  "sources": [
+    {
+      "id": "DC-P007-P008-MEDITATION",
+      "atlas_file": "atlas/DC-P007-P008-Standard-Meditation-Opening-Ending.md",
+      "pages": [
+        7,
+        8
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    },
+    {
+      "id": "DC-P007-P008-FIRST-RING",
+      "atlas_file": "atlas/DC-P007-P008-First-Ring-Gate-Introduction.md",
+      "pages": [
+        7,
+        8
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    },
+    {
+      "id": "DC-P052-P054",
+      "atlas_file": "atlas/DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md",
+      "pages": [
+        52,
+        53,
+        54
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    },
+    {
+      "id": "DC-P058",
+      "atlas_file": "atlas/DC-P058-Welcoming-Other-Dragons-Meditation.md",
+      "pages": [
+        58,
+        59,
+        60
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    },
+    {
+      "id": "DC-P060",
+      "atlas_file": "atlas/DC-P060-Basic-Personal-Protection.md",
+      "pages": [
+        60,
+        61
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    },
+    {
+      "id": "DC-P061",
+      "atlas_file": "atlas/DC-P061-Dragon-Ride-Meditation.md",
+      "pages": [
+        61,
+        62,
+        63
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    },
+    {
+      "id": "DC-P063",
+      "atlas_file": "atlas/DC-P063-Dragon-Alchemy.md",
+      "pages": [
+        63,
+        64
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    },
+    {
+      "id": "DC-P064",
+      "atlas_file": "atlas/DC-P064-Testing-Your-Energy-Balance.md",
+      "pages": [
+        64,
+        65
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    },
+    {
+      "id": "DC-P065",
+      "atlas_file": "atlas/DC-P065-Dragon-Apprentice-Ritual.md",
+      "pages": [
+        65,
+        66
+      ],
+      "source_kind": "Conway-book-as-reviewed",
+      "verified": true,
+      "user_approved": true
+    }
+  ],
+  "modules": [
+    {
+      "id": "meditation.beginning",
+      "kind": "reusable-meditation-block",
+      "source": "DC-P007-P008-MEDITATION",
+      "pages": [
+        7
+      ],
+      "printed_bounds": {
+        "starts": "(Beginning of meditation)",
+        "ends": "(End of beginning)"
+      },
+      "steps": [
+        "sit upright in chair; back straight, feet flat on floor, hands in lap",
+        "take three slow deep breaths; progressively relax muscles",
+        "visualize brilliant white light with guardian spirits at your side",
+        "relax until light and comfortable",
+        "imagine standing beside a well",
+        "symbolically leave upsetting matters/people in well's darkness",
+        "walk away from well and leave disturbances behind"
+      ],
+      "not_included": [
+        "huge wooden gate",
+        "Gate dragon",
+        "First Ring registry"
+      ]
+    },
+    {
+      "id": "meditation.ending",
+      "kind": "reusable-meditation-block",
+      "source": "DC-P007-P008-MEDITATION",
+      "pages": [
+        8
+      ],
+      "printed_bounds": {
+        "starts": "(Ending)",
+        "ends": "(End of meditation)"
+      },
+      "steps": [
+        "walk into the light",
+        "return to awareness of physical body",
+        "move fingers and feet slowly until comfortable again"
+      ],
+      "note": "Printed walk-into-light instruction follows a specific light-cone scene; do not import that cone's architecture into other meditations."
+    },
+    {
+      "id": "ritual.beginning",
+      "kind": "reusable-ritual-block",
+      "source": "DC-P052-P054",
+      "pages": [
+        52
+      ],
+      "printed_bounds": {
+        "starts": "Beginning of ritual",
+        "ends": "End of beginning"
+      },
+      "steps": [
+        "altar cloth on floor or ground with one side north",
+        "salt bowl to west/left; water bowl to east/right; altar stones before seated participant",
+        "kneel facing north; left hand above salt, right above water; invoke positive universal powers",
+        "stand and circle altar cloth clockwise, sprinkling salt in west-north-east-south order",
+        "repeat the directional circuit with water"
+      ],
+      "not_included": [
+        "blue Apprentice ribbon",
+        "four-stone directional dedication",
+        "co-magician-specific name/greeting",
+        "Sunday/Monday preference"
+      ]
+    },
+    {
+      "id": "ritual.ending",
+      "kind": "reusable-ritual-block",
+      "source": "DC-P052-P054",
+      "pages": [
+        54
+      ],
+      "printed_bounds": {
+        "starts": "Ending of ritual follows",
+        "ends": "before Dragons of the Elements section"
+      },
+      "steps": [
+        "pour water into a potted plant or onto the ground",
+        "put remaining ritual items away"
+      ],
+      "not_included": [
+        "speech thanking the newly attracted co-magician dragon",
+        "new gem placement",
+        "new invocation"
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene.first-ring-gate",
+      "source": "DC-P007-P008-FIRST-RING",
+      "pages": [
+        7,
+        8
+      ],
+      "realm": "First Ring (named); exact Otherworld level not stated",
+      "facts": [
+        "velvety darkness gives way to sunlight and huge wooden door with iron scrollwork/hinges",
+        "pull heavy chain attached to deep-sounding bell; door opens slowly",
+        "brightly coloured Gate dragon just inside doorway; door shuts behind visitor",
+        "circular First Ring is sensed but seen room is spacious, narrow, with slightly curved walls and skylights; ceiling unseen",
+        "endless tables, shelves of scrolls/books, wall diagrams/maps, open cabinets of herb jars and tall oil bottles",
+        "registry table beside closed door: quill in ink bottle and open book; student signs if certain",
+        "tiny silver dragon figure fastened to clothing; one question permitted",
+        "brilliant light cone rises endlessly from stone floor; guardian points visitor toward it"
+      ],
+      "unknown": [
+        "Gate dragon identity and exact colours",
+        "room floor plan and dimensions",
+        "map contents",
+        "specific Otherworld level"
+      ],
+      "never_merge_with": [
+        "Teacher's Gate",
+        "any other named gate"
+      ]
+    },
+    {
+      "id": "scene.welcoming-dragons",
+      "source": "DC-P058",
+      "pages": [
+        58,
+        59,
+        60
+      ],
+      "realm": "not specified",
+      "facts": [
+        "stone courtyard of mighty castle without walls, dragons of differing sizes, apprentices from Earth and other worlds",
+        "blue ribbons on human Apprentices; guardian dragon nudges student, holds hand and supports introductions",
+        "older co-magicians lower heads to meet apprentice gaze; varied eye colours/shapes and eyelashes",
+        "telepathic communication and dragon humming; the Music of the Multiverse including fleeting discordant note",
+        "tables with juice and cakes; apprentices and dragons exchange greeting",
+        "long line of co-magicians with their apprentices in front; bright doorways appear and student enters one"
+      ],
+      "unknown": [
+        "courtyard floor plan",
+        "Otherworld level",
+        "exact dragon appearances/colours",
+        "bright doorway destination"
+      ]
+    },
+    {
+      "id": "scene.dragon-ride",
+      "source": "DC-P061",
+      "pages": [
+        61,
+        62
+      ],
+      "realm": "imagined journey over geographic Earth; no mapped Otherworld level specified",
+      "facts": [
+        "rosy dawn; stone-paved courtyard of ancient castle, stone steps set into its outer wall",
+        "green-and-gold co-magician dragon, wings slightly spread, kneels; rider holds harness strap on shoulders between wings",
+        "invisible warm-air bubble; takeoff from castle wall using thermal currents",
+        "fields, tree-lined dirt road, canal with shrubs and river; bank left and travel southeast",
+        "Pacific Northwest toward Arizona/New Mexico, red rock, desert plateau, ancient cliff dwellings, Grand Canyon",
+        "Mississippi journey Gulf to Great Lakes and Earth's supposed energy-line vision, attributed to Conway",
+        "Great Wall of China approached while invisibility from human sight is narrated; further destinations user-chosen",
+        "return to castle; dragon asks what tools give spell power; lighted door appears in wall"
+      ],
+      "outside_meditation": "p.63 answer: power comes from within; tools have no power in themselves",
+      "unknown": [
+        "exact geocoded route",
+        "flight altitude",
+        "harness design",
+        "Atlantic crossing event (requested, not narrated)"
+      ],
+      "never_merge_with": [
+        "scene.welcoming-dragons"
+      ]
+    },
+    {
+      "id": "scene.energy-balance",
+      "source": "DC-P064",
+      "pages": [
+        64,
+        65
+      ],
+      "realm": "unspecified visualization setting",
+      "facts": [
+        "wide very long board balanced on top of golden pyramid fulcrum in otherwise dark place",
+        "brilliant white at one end, bright gray near centre, full darkness at opposite end",
+        "co-magician motions student above support and telepathically explains calm centre of Multiversal energy",
+        "movement and thoughts imagined to influence board; both extremes seem less powerful than centre",
+        "dragon reassures student and holds them astrally; slight slide toward dark side first, note sensations",
+        "return to centre and rest; then slight slide toward bright side, note sensations",
+        "return to centre, step down, reflect; dragon offers individualized interpretation"
+      ],
+      "unknown": [
+        "board material/dimensions",
+        "orientation",
+        "dragon appearance",
+        "scientific energy readings"
+      ]
+    },
+    {
+      "id": "scene.co-magician-encounter",
+      "source": "DC-P052-P054",
+      "pages": [
+        52,
+        53,
+        54
+      ],
+      "realm": "not named",
+      "facts": [
+        "after marked ritual beginning drape blue Apprentice ribbon across shoulders, seated/kneeling facing north",
+        "quartz point at cloth centre pointing north; amethyst north, amber east, aventurine south, moss agate west",
+        "concentrate on qualities sought in a new co-magician rather than imagined appearance",
+        "personal guardian present; newly encountered co-magician has specific colour, may withhold name initially",
+        "co-magician-specific thanks to dragons, guardian and new companion; release excess power to Earth before marked ending"
+      ],
+      "unknown": [
+        "new co-magician exact colour/name before encounter",
+        "physical appearance"
+      ],
+      "not_shared": [
+        "stone layout and blue ribbon",
+        "co-magician-specific gratitude"
+      ]
+    },
+    {
+      "id": "scene.enchanter-oath",
+      "source": "DC-P065",
+      "pages": [
+        65,
+        66
+      ],
+      "realm": "great visualized cave; no named Otherworld level",
+      "facts": [
+        "physical preparation: altar cloth, bowls of sea salt/water, altar stones, jewelry or belt buckle; Full Moon preferable",
+        "close eyes, relax, visualize solid walls of great cave and large flight of humming dragons",
+        "feel warmth and hear folded wings; candidate asks passage from Apprentice to Enchanter Ring",
+        "Aldram, ancient Keeper of the Book, received student's earlier Apprentice oath",
+        "both hands palms up; Aldram lays hands over them, light touch; asks Enchanter oath",
+        "rhymed oath pledges study, help not harm; verse imagery not materials list",
+        "jewelry/buckle selected: power hand (most-used), close fist, lift overhead; short spoken declaration",
+        "touch object to forehead centre and then heart; pledge confidentiality about Enchanter arts",
+        "sit quietly a few minutes before referenced ending"
+      ],
+      "unknown": [
+        "cave geometry and light",
+        "dragon number/appearance",
+        "full oath transcription not included here",
+        "actual outcome of advancement"
+      ],
+      "distinction": "physical altar preparations and visualized cave are different representational layers; no automatic admission event"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "experience.first-ring-introduction",
+      "kind": "guided-meditation",
+      "source": "DC-P007-P008-FIRST-RING",
+      "sequence": [
+        {
+          "module": "meditation.beginning"
+        },
+        {
+          "scene": "scene.first-ring-gate"
+        },
+        {
+          "module": "meditation.ending"
+        }
+      ],
+      "note": "This scene is specific to pp7-8; do not treat the Gate scene as a universal meditation beginning."
+    },
+    {
+      "id": "experience.co-magician-ritual",
+      "kind": "ritual",
+      "source": "DC-P052-P054",
+      "sequence": [
+        {
+          "source_action": "Prepare p52 ritual-specific materials, seven-point star, specified gems; Sunday/Monday preferred; keep physically distinct"
+        },
+        {
+          "module": "ritual.beginning"
+        },
+        {
+          "scene": "scene.co-magician-encounter"
+        },
+        {
+          "module": "ritual.ending"
+        }
+      ],
+      "note": "Distinct rite for attracting co-magician; not the Enchanter oath."
+    },
+    {
+      "id": "experience.welcoming-other-dragons",
+      "kind": "guided-meditation",
+      "source": "DC-P058",
+      "sequence": [
+        {
+          "module": "meditation.beginning"
+        },
+        {
+          "scene": "scene.welcoming-dragons"
+        },
+        {
+          "module": "meditation.ending"
+        }
+      ],
+      "note": "Source p58 and p60 directly cite p7 and p8."
+    },
+    {
+      "id": "experience.basic-personal-protection",
+      "kind": "study-text",
+      "source": "DC-P060",
+      "sequence": [
+        {
+          "study_section": "Conway's white-light-globe visualization, blue-armour visualization and charm options; Look Elsewhere; practical avoidance priority"
+        }
+      ],
+      "note": "No named Otherworld scene or required shared opening. Magic efficacy not scientifically demonstrated; do not present candle-heat contact as safety guidance."
+    },
+    {
+      "id": "experience.dragon-ride",
+      "kind": "guided-meditation",
+      "source": "DC-P061",
+      "sequence": [
+        {
+          "module": "meditation.beginning"
+        },
+        {
+          "scene": "scene.dragon-ride"
+        },
+        {
+          "module": "meditation.ending"
+        },
+        {
+          "study_section": "p63 question answer outside meditation; no gameplay outcome assumed"
+        }
+      ],
+      "note": "Do not infer castle identity with wall-less courtyard of Welcoming Other Dragons."
+    },
+    {
+      "id": "experience.dragon-alchemy",
+      "kind": "study-text",
+      "source": "DC-P063",
+      "sequence": [
+        {
+          "study_section": "Conway's essay on physical, magickal, spiritual alchemy, symbolism and teacher traditions; claims attributed to author"
+        }
+      ],
+      "note": "No invented alchemy laboratory, scene, Philosopher's Stone appearance or ritual."
+    },
+    {
+      "id": "experience.testing-energy-balance",
+      "kind": "self-contained-visualization",
+      "source": "DC-P064",
+      "sequence": [
+        {
+          "scene": "scene.energy-balance"
+        }
+      ],
+      "note": "The source does not cross-reference p7/8, so no automatic shared opening or ending. Symbolic visualization, not energy measurement."
+    },
+    {
+      "id": "experience.apprentice-to-enchanter",
+      "kind": "ritual",
+      "source": "DC-P065",
+      "sequence": [
+        {
+          "source_action": "Prepare p65 materials; Full Moon preferable"
+        },
+        {
+          "module": "ritual.beginning"
+        },
+        {
+          "scene": "scene.enchanter-oath"
+        },
+        {
+          "module": "ritual.ending"
+        }
+      ],
+      "note": "Source references p52 and p54, not the entire co-magician rite. Entry REQUESTED; no invented acceptance or progression confirmation."
+    }
+  ],
+  "no_unsupported_connections": [
+    "Do not identify First Ring Gate dragon with Aldram or Alberon.",
+    "Do not equate walled Dragon Ride castle with wall-less Welcoming Dragons courtyard.",
+    "Do not insert the First Ring introductory gate/registry into all meditations.",
+    "Do not insert co-magician ribbon/gems/Sunday-Monday timing into Enchanter ritual.",
+    "Do not insert meditation p7/p8 into self-contained Energy Balance without an explicit reference.",
+    "Do not turn historical Dragon Alchemy essay into a specific drawn laboratory.",
+    "Do not infer that reciting Enchanter oath automatically grants confirmed promotion."
+  ]
+}
