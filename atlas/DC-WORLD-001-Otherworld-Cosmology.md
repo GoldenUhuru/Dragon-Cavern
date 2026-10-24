@@ -11,11 +11,11 @@ The drawing uses lines **without arrowheads**: connectivity only, **not proven t
 ## Side branches visible on diagram (p. 39)
 - **To the Void** — connected to Upperworld.
 - **Time-Flight Astra-Keepers** — connected to Upperworld.
-- **Akasha** — connected to Middleworld.
+- **Akasha** — **DISPUTED BY USER (2026-10-24)**. Earlier transcription says connected to Middleworld; do not present as verified pending inspection of original p. 39.
 - **Seers, Web Weavers, etc.** — connected to Upperworld and Middleworld.
 - **Dragon World** — connected to Middleworld with multiple lines.
 - **Faery Land** — connected to Middleworld with multiple lines.
-- **Center of the Five Rings / Four Hidden Dragons** — connected to Middleworld.
+- **Center of the Five Rings / Four Hidden Dragons** — **DISPUTED BY USER (2026-10-24)**. Earlier transcription associates this branch with Middleworld; precise label, placement, and relationship to the four guardians require original p. 39 re-check.
 
 Do not collapse Akasha into the Center of the Five Rings; the drawing treats them as distinct branches. Multiple lines are preserved as multiple drawn links, not proof of multiple named Gates.
 
@@ -28,3 +28,7 @@ Original p. 39 diagram was documented as visually legible in earlier study recor
 ## Related
 - [Master Gate Registry](DC-GATES-001-Master-Gate-Registry.md)
 - [Navigation and Access Rules](DC-NAV-001-Navigation-and-Access-Rules.md)
+
+## Quality review QR-2026-10-24-002
+
+William reviewed 14 items on 2026-10-24: **12 STÄMMER** (Upperworld; To the Void; Time-Flight/Astra-Keepers; Seers/Web Weavers/etc.; Dragon World; Faery Land; Travelers' Gate; Web Gate; Zodiac Gate; Teacher's Gate; Past Lives Gate; Four Hidden Gates) and **2 FEL** (Akasha; Center of the Five Rings / Four Hidden Dragons). These are user review marks, not fresh independent original-page verification. **Do not overwrite the two errors with speculative corrections.** Request targeted original p.39 comparison, including exact labels and line endpoints. The earlier To the Void versus Void Gate identity question remains separate and unresolved even though the 'To the Void' entry was marked STÄMMER.
