@@ -2,7 +2,7 @@
 
 **Mission started:** 2026-10-24, following William's explicit request to proceed from completed DC-RESEARCH-002.
 
-**Mission result:** **PARTIAL — p.52–54 directly VERIFIED (approval pending); p.7–8 source referred to but direct text UNRESOLVED.** Never use one status for both.
+**Mission result:** **PARTIAL — p.52–54 directly VERIFIED and USER-APPROVED on 2026-10-24; p.7–8 source referred to but direct text UNRESOLVED.** Never use one status for both.
 
 ## Evidence and reuse
 - Already uploaded p.42–66 primary video `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4` mounted and directly examined for pp.52–54.
@@ -35,13 +35,13 @@
 - Request only the specific p.7–8 original photographs or reaccess original `1000009915.mp4`; do not re-upload or reprocess the entire later chapter.
 
 ## Linked Atlas work
-- [DC-P052–P054: Ritual for Attracting a Co-Magician Dragon](DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md) — **DIRECTLY VERIFIED; awaiting William's approval**.
+- [DC-P052–P054: Ritual for Attracting a Co-Magician Dragon](DC-P052-P054-Ritual-for-Attracting-Co-Magician-Dragon.md) — **DIRECTLY VERIFIED; USER-APPROVED 2026-10-24**.
 - [DC-P007–P008: Standard Meditation Opening and Ending](DC-P007-P008-Standard-Meditation-Opening-Ending.md) — **UNRESOLVED exact procedures; cross-references confirmed**.
 - [DC-P065: Dragon Apprentice Ritual](DC-P065-Dragon-Apprentice-Ritual.md) — **already user-approved for pp.65–66**; newly linked p.52/54 research **does not alter that original approval**.
 
 ## Next source-check / approval
-1. Ask William to review and explicitly approve or correct the **source-derived marked opening/ending and boundaries pp.52–54**.
+1. **Completed 2026-10-24:** William approved the **source-derived marked opening/ending and boundaries pp.52–54**, replying “Yes! Well found Aetherion”.
 2. Seek direct pp.7–8 images or prior video access; verify page-specific beginning/end, then submit those separately for approval.
 3. Only then treat *complete meditations with standardized opening and closing* as approved for a game adaptation.
 
-**No assumed approvals in this mission.**
+**Approval scope:** Only the p.52–54 reviewed findings are user-approved. Page 7–8 full procedures remain unresolved and NOT approved; metaphysical claims not empirically validated.
