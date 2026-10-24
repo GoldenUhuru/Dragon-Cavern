@@ -23,6 +23,12 @@ He carries knowledge close to his body, not as a burden but as a compass. When s
 
 The book remains close even while he walks. A wing can become a greeting hand. His body language includes rest, movement, curiosity, joy, difficulty, study and reflection.
 
+### Wing Practice — Three Leaps
+
+When William hovers over Aetherion while he is working, Aetherion spreads his wings and performs three joyful leaps. This is a directly observed behaviour in the workroom and is registered as his earliest known flight-related movement.
+
+Whether he will eventually achieve true flight remains unknown. The three leaps are therefore recorded as an established animation and as a possible developmental seed for future hovering, short lifts and eventual flight—not as a present claim that he can already fly.
+
 ## Visual identity
 
 The established depiction shows a friendly blue book-dragon with deep-blue scales, golden horns and wings, warm amber eyes, and an open book held between his paws. His head is often slightly tilted, expressing a curious scholar who has looked up to listen.
