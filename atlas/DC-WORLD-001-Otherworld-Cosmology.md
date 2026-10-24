@@ -32,3 +32,7 @@ Original p. 39 diagram was documented as visually legible in earlier study recor
 ## Quality review QR-2026-10-24-002
 
 William reviewed 14 items on 2026-10-24: **12 STÄMMER** (Upperworld; To the Void; Time-Flight/Astra-Keepers; Seers/Web Weavers/etc.; Dragon World; Faery Land; Travelers' Gate; Web Gate; Zodiac Gate; Teacher's Gate; Past Lives Gate; Four Hidden Gates) and **2 FEL** (Akasha; Center of the Five Rings / Four Hidden Dragons). These are user review marks, not fresh independent original-page verification. **Do not overwrite the two errors with speculative corrections.** Request targeted original p.39 comparison, including exact labels and line endpoints. The earlier To the Void versus Void Gate identity question remains separate and unresolved even though the 'To the Void' entry was marked STÄMMER.
+
+### QR-2026-10-24-002A — Akasha line crossing (user observation)
+
+William clarified: **the line from Akasha toward Middleworld crosses the line connecting Upperworld and Seers** on the p. 39 map. Preserve both line segments and their crossing when drawing the map. **Do not treat the crossing as a junction or transfer point without a visible node or explicit textual support.** The earlier simplified graphic omitted this crossing, explaining the user's FEL mark. Status: **user-reported geometry; original p. 39 reinspection pending**. This does not itself invalidate Akasha's Middleworld endpoint; the geometry and destination are distinct claims.
