@@ -2,7 +2,7 @@
 
 **Source:** D. J. Conway, *Mystical Dragon Magick*, printed pp.52–54.
 **Evidence:** Directly inspected legible frames of user-supplied video `CH1 P42-66 _ The Way Of The DRAGON Apprentice - first of the INNER RINGS.mp4`: `dc_research_002_frames/t14.jpg` (p.52), `t16.jpg` / `t17.jpg` (p.53), `t18.jpg` (p.54).
-**Status:** VERIFIED source reading; **USER APPROVAL PENDING**. Reported spiritual effects are Conway's claims, not scientifically established.
+**Status:** VERIFIED source reading; **USER-APPROVED 2026-10-24**. Reported spiritual effects are Conway's claims, not scientifically established.
 
 ## Critical document structure
 Page 52 has heading **“Ritual for Attracting a Co-Magician Dragon”**, preceded by a glossary/list of dragon terms (not part of ritual). The ritual prints an explicitly bracketed **“Beginning of ritual”** block near the middle of p.52, followed by **“End of beginning”**. On p.54 an expressly marked **“Ending of ritual follows”** precedes the ending block. Between the blocks is a lengthy **ritual-specific body** concerning the Apprentice ribbon, crystals and attracting a co-magician.
@@ -50,4 +50,4 @@ A later **Dragon Apprentice Ritual** on p.65 directs the reader to the **beginni
 The source prescribes **relative positions**, not an altar table, compass rose graphic, exact dimensions, cloth colour, bowl materials or a specific drawing of the seven-pointed star. For p.65, jewelry (or belt buckle) is an additional object, while the p.53 gem directional arrangement is **not automatically prescribed**. No dragon is depicted in the marked opening or ending blocks themselves.
 
 ## Audit
-**2026-10-24:** Original p52–54 video images read directly; common opening and ending boundaries distinguished from longer co-magician ritual. **Awaiting explicit William review and approval.**
+**2026-10-24:** Original p52–54 video images read directly; common opening and ending boundaries distinguished from longer co-magician ritual. **William explicitly approved on 2026-10-24**, responding “Yes! Well found Aetherion” to the page-by-page findings and the distinction between marked shared opening/ending and the specific co-magician rite. Approval covers source-derived details and stated uncertainties; it does not validate metaphysical efficacy or invented visuals.
