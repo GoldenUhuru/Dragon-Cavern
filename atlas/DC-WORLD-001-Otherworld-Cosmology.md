@@ -15,7 +15,7 @@ The drawing uses lines **without arrowheads**: connectivity only, **not proven t
 - **Seers, Web Weavers, etc.** — connected to Upperworld and Middleworld.
 - **Dragon World** — connected to Middleworld with multiple lines.
 - **Faery Land** — connected to Middleworld with multiple lines.
-- **Center of the Five Rings / Four Hidden Dragons** — **DISPUTED BY USER (2026-10-24)**. Earlier transcription associates this branch with Middleworld; precise label, placement, and relationship to the four guardians require original p. 39 re-check.
+- **Center of the Five Rings / Four Hidden Dragons** — a separately named branch **connected by a drawn line to Middleworld** in the earlier p. 39 study record; **not an isolated floating region**. Its detailed internal layout and relationship to the four guardians are distinct questions not inferred from the line.
 
 Do not collapse Akasha into the Center of the Five Rings; the drawing treats them as distinct branches. Multiple lines are preserved as multiple drawn links, not proof of multiple named Gates.
 
@@ -40,3 +40,7 @@ William clarified: **the line from Akasha toward Middleworld crosses the line co
 ### QR-2026-10-24-002B — clarification of Akasha review
 
 William clarified that the description sounded as though Akasha floated by itself. Correct interpretation: **a separately named branch with a drawn connection to Middleworld**, crossing the Upperworld–Seers line. The initial FEL flag was about the presentation's ambiguity, not evidence of a missing Middleworld connection. Wording corrected; crossing is not automatically a junction. This is **user clarification**, not a new independent inspection of the original printed map.
+
+### QR-2026-10-24-002C — clarification of Five Rings review
+
+William clarified the FEL mark for **Center of the Five Rings / Four Hidden Dragons** was caused by the simplified presentation suggesting it floated separately, not by a dispute over its **drawn connection to Middleworld**. Preserve that connection, and explicitly distinguish 'separate named branch' from 'unconnected'. Both FEL flags in QR-2026-10-24-002 now have clarified wording, without claiming fresh independent inspection of the printed page 39. Earlier source approvals and travel/access restrictions remain unchanged.
